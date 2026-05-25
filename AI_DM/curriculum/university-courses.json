@@ -1,0 +1,227 @@
+[
+  {
+    "name": "MIT 6.034 AI",
+    "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2020/",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "MIT 6.036 Intro ML",
+    "url": "https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-spring-2020/",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "MIT 6.824 Distributed Systems",
+    "url": "https://pdos.csail.mit.edu/6.824/",
+    "level": "grad",
+    "sections": [
+      "s: 1 2 3 4 5 &middot; Questions &middot; Past Exams &middot; 2025 Web Site &middot; 2024 Web Site &m",
+      "s, an optional project, a mid-term exam, and a final exam",
+      "assignments"
+    ],
+    "content_size": 3995
+  },
+  {
+    "name": "Stanford CS229 ML",
+    "url": "https://cs229.stanford.edu/",
+    "level": "grad",
+    "sections": [
+      "Location TBD (6-9 pm PT) No TA Lecture (Midterm Week) November 3, 2025 Lecture 13 ML Advice November",
+      "us and Course Materials page",
+      "Proposal (Due at 11:59 pm PT) October 8, 2025 Lecture 6 Gaussian discriminant analysis",
+      "us page or the course's Canvas calendar for the latest information",
+      "include: supervised learning (generative learning, parametric/non-parametric learning, neural networ",
+      "4 Evaluation Metrics October 20, 2025 Lecture 9 Decision trees October 22, 2025 Lecture 10 Boosting ",
+      "s at Stanford",
+      "us and Course Materials Final Project Information Previous Offerings: Winter 2026 , Fall 2025 , Summ",
+      "accommodations for a specific assessment, students must provide their letter and inform the instruct",
+      "Topic Details January 5, 2026 Lecture 1 Introduction Problem Set 0 Released September 24, 2025 Lectu"
+    ],
+    "content_size": 20049
+  },
+  {
+    "name": "Stanford CS231n CNNs",
+    "url": "https://cs231n.stanford.edu/",
+    "level": "grad",
+    "sections": [
+      "s (45%) See the Assignments page for details regarding assignments, late days and collaboration poli",
+      "/Javascript) you will probably be fine",
+      "course, students will learn to implement and train their own neural networks and gain a detailed und",
+      "Videos Ed Useful Notes CS231n: Deep Learning for Computer Vision Stanford - Spring 2026 *This networ",
+      "le on YouTube",
+      "s will be in Python (and use numpy) (we provide a tutorial here for those who aren't as familiar wit",
+      "s and the final course project, students will acquire the toolset for setting up deep learning tasks",
+      "le as an announcement on Ed in the coming weeks",
+      "(35%) See the Project page for more details regarding the final course project",
+      "will give them the opportunity to train and apply multi-million parameter networks on real-world vis",
+      "s Project Office Hours Lecture Videos Ed Useful Notes CS231n: Deep Learning for Computer Vision Stan"
+    ],
+    "content_size": 22604
+  },
+  {
+    "name": "Stanford CS224n NLP",
+    "url": "https://web.stanford.edu/class/cs224n/",
+    "level": "grad",
+    "sections": [
+      "s and a final project, students will learn the necessary skills to design, implement, and understand",
+      "5 Tue Feb 3 Efficient Adaptation (Prompting + PEFT) [ slides ] Suggested Readings: Language Models a",
+      "Important information Credit : For both default and custom projects, credit for t",
+      "[ colab ] Time 1:30pm-2:50pm Location NVIDIA Auditorium Week 3 Tue Jan 20 Transformers [ slides ] [ ",
+      "le lecture videos and versions of the course: Complete videos for the CS224N course are available (f",
+      "reports from previous years",
+      "s (48%) There are four weekly assignments, which will improve both your theoretical understanding an",
+      "/Java/Javascript), you will probably be fine",
+      "Videos Ed Forum CS224N: Natural Language Processing with Deep Learning",
+      ", assignments and a final project, students will learn the necessary skills to design, implement, an",
+      "Counseling and Psychological Services also offers confidential counseling service",
+      "s Lecture Videos Ed Forum CS224N: Natural Language Processing with Deep Learning Stanford / Winter 2",
+      "s contain both written questions and programming parts",
+      "s 1 and 2, but not for assignments 3 and 4",
+      "Credit : Assignment 1 (6%): Introduction to word vectors Assignment 2 (14%): Neur",
+      "1 Tue Jan 6 History of NLP [ intro slides ] [ history slides ] Suggested Readings: Human Language Un",
+      "s are updated online each year as the course progresses",
+      "s change from year to year; please do not do assignments from previous years! CS224N Websites : Wint"
+    ],
+    "content_size": 63867
+  },
+  {
+    "name": "Stanford CS329S ML Systems",
+    "url": "https://stanford-cs329s.github.io/",
+    "level": "grad",
+    "sections": [
+      "to build an ML application (65",
+      "approach has been tremendously successful in getting models off the ground",
+      "after the course is over (we encourage that!) NOT OK to post your assignment solutions online",
+      "or give advice on final projects",
+      "s such as team structure and business metrics",
+      "s/projects for you",
+      "and their objectives",
+      "notes for the course have been expanded into the book Designing Machine Learning",
+      "s/assignments",
+      "s here two to three fun, short assignments (30%) discussion participation in class + EdStem + OHs (5"
+    ],
+    "content_size": 16280
+  },
+  {
+    "name": "Berkeley CS285 Deep RL",
+    "url": "https://rail.eecs.berkeley.edu/deeprlcourse/",
+    "level": "grad",
+    "sections": [
+      "us for more information",
+      "us Staff Menu Calendar Resources Menu Resources Menu Calendar Resources Previous Offerings Courses R",
+      "1: Introduction Lecture 2: Behavioral Cloning Lecture 3: Behavioral Cloning Part 2 Lecture 4: RL Bas",
+      "outline has been released",
+      "options are now available: Offline-to-Online RL Default Final Project and LLM RL Default Final Proje",
+      "1: Imitation Learning Homework 2: Policy Gradients Homework 3: Q-Learning and Actor Critic Homework ",
+      "Section 2 Part 1: Probability Review Section 2 Part 2: BC Distributional Shift Section 3: Policy Gra",
+      "1: Imitation Learning Lecture 1: Introduction Lecture 2: Behavioral Cloning Week 2 Overview Imitatio",
+      "1 Overview Course Intro & Imitation Learning Monday, January 19 – Friday, January 23 Homework 1: Imi"
+    ],
+    "content_size": 85491
+  },
+  {
+    "name": "Berkeley CS189 ML",
+    "url": "https://people.eecs.berkeley.edu/~jrs/189/",
+    "level": "undergrad",
+    "sections": [
+      "However, the prerequisites are not formally enforced&mdash;rather, they're enforc",
+      "le, there is a &ldquo;free-to-use online version&rdquo; at the link",
+      "My lecture notes (PDF)",
+      "Although there is no free PDF available, there is a &ldquo;free-to-use online ver",
+      "Optional: check out this short visualization of the parabolic lifting map",
+      "and Exams You have a total of 5 slip days that you can apply to your semester's homework",
+      "11 (March 3): Newton's method and its application to logistic regression",
+      "2), check out the first two chapters of The Matrix Cookbook",
+      "le free online",
+      "13 (March 10): Ridge regression: penalized least-squares regression",
+      "le at this link",
+      "12 (March 5): Statistical justifications for regression",
+      "19 (April 9): Convolutional neural network",
+      "you submit that would bring your total slip days over five",
+      "See Amazon for hardcover or eTextbook",
+      "16 (March 31): Neural network",
+      "include classification: perceptrons, support vector machines (SVMs), Gaussian discriminant analysis ",
+      "ISBN # 978-1-0716-1417-4",
+      "can be extended more than 5 days",
+      "5 (February 5): Machine learning abstractions: application/data, model, optimization problem, optimi"
+    ],
+    "content_size": 42075
+  },
+  {
+    "name": "CMU 10-701 ML",
+    "url": "https://www.cs.cmu.edu/~aabrol/teaching.html",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "CMU 11-785 Intro DL",
+    "url": "https://deeplearning.cs.cmu.edu/",
+    "level": "grad",
+    "sections": [],
+    "content_size": 138
+  },
+  {
+    "name": "Oxford CS Deep Learning",
+    "url": "https://www.cs.ox.ac.uk/people/nando.defreitas/",
+    "level": "grad",
+    "sections": [
+      "els using Deep Features | BibTeX data for From Group to Individual Labels using Deep Features | Down",
+      "Details about Dueling Network Architectures for Deep Reinforcement Learning | Bib",
+      "I also received the 2012 Charles A",
+      "els using Deep Features Dimitrios Kotzias&#x201a; Misha Denil&#x201a; Nando de Freitas and Padhraic ",
+      "Details about Neural Programmer&#x2212;Interpreters | BibTeX data for Neural Prog",
+      "s: Deep&nbsp;Learning Interests I want to understand intelligence and harness it to extend our minds",
+      "I have spun off a few companies, most recently&nbsp; Dark Blue Labs &nbsp;acquire",
+      "Details about From Group to Individual Labels using Deep Features | BibTeX data f",
+      "s &nbsp;acquired by Google"
+    ],
+    "content_size": 35586
+  },
+  {
+    "name": "Karpathy Neural Networks Zero to Hero",
+    "url": "https://github.com/karpathy/nn-zero-to-hero",
+    "level": "self-study",
+    "sections": [
+      "le\":null,\"ghCliUrl\":\"gh repo clone karpathy/nn-zero-to-hero\",\"defaultProtocol\":\"http\",\"newSshKeyUrl\"",
+      "el_name_updates\",\"low_quality_classifier\",\"marketing_pages_search_explore_provider\",\"memex_default_i",
+      "3: Building makemore Part 2: MLP\\u003c/strong\\u003e\\u003c/p\\u003e\\n\\u003cp dir=\\\"auto\\\"\\u003eWe impl",
+      "el=\\\"Permalink: Neural Networks: Zero to Hero\\\" href=\\\"#neural-networks-zero-to-hero\\\"\\u003e\\u003csv",
+      "8: Let's build the GPT Tokenizer\\u003c/strong\\u003e\\u003c/p\\u003e\\n\\u003cp dir=\\\"auto\\\"\\u003eThe Tok",
+      "s Security and quality 0 Insights Additional navigation options Code Issues Pull requests Actions Pr",
+      "\\u003c/a\\u003e\\u003c/li\\u003e\\n\\u003c/ul\\u003e\\n\\u003chr\\u003e\\n\\u003cp dir=\\\"auto\\\"\\u003eOngoing",
+      "1: The spelled-out intro to neural networks and backpropagation: building micrograd Backpropagation ",
+      "\",\"copilot_diff_explain_conversation_intent\",\"copilot_diff_reference_context\",\"copilot_duplicate_thr",
+      "6: Building makemore Part 5: Building WaveNet\\u003c/strong\\u003e\\u003c/p\\u003e\\n\\u003cp dir=\\\"auto\\\"",
+      "le\":true,\"sshAvailable\":null,\"httpUrl\":\"https://github",
+      "Jupyter notebook files micrograd Github repo Lecture 2: The spelled-out intro to language modeling: ",
+      "2: The spelled-out intro to language modeling: building makemore\\u003c/strong\\u003e\\u003c/p\\u003e\\n\\",
+      "\\u003c/a\\u003e",
+      "Maintainer Community Accelerator GitHub Stars Archive Program REPOSITORIES Topics Trending Collectio",
+      "We talk about connections to ChatGPT, which has taken the world by storm",
+      "1: The spelled-out intro to neural networks and backpropagation: building micrograd\\u003c/strong\\u00",
+      "le qualifiers, see our documentation",
+      "Jupyter notebook files makemore Github repo Lecture 3: Building makemore Part 2: MLP We implement a ",
+      "\\u003c/a\\u003e\\u003c/li\\u003e\\n\\u003cli\\u003e\\u003ca href=\\\"/karpathy/nn-zero-to-hero/blob/master/le"
+    ],
+    "content_size": 259128
+  },
+  {
+    "name": "Karpathy Micrograd",
+    "url": "https://github.com/karpathy/micrograd",
+    "level": "self-study",
+    "sections": [
+      "s Security and quality 0 Insights Additional navigation options Code Issues Pull requests Actions Pr",
+      "el_name_updates\",\"low_quality_classifier\",\"marketing_pages_search_explore_provider\",\"memex_default_i",
+      "ple showing a number of possible supported operations:\\u003c/p\\u003e\\n\\u003cdiv class=\\\"highlight hi",
+      "ple usage\\u003c/h3\\u003e\\u003ca id=\\\"user-content-example-usage\\\" class=\\\"anchor\\\" aria-label=\\\"Perm",
+      "le\":true,\"sshAvailable\":null,\"httpUrl\":\"https://github",
+      ", implementing a simple svm \"max-margin\" binary classification loss and using SGD for optimization",
+      "el=\\\"Permalink: Installation\\\" href=\\\"#installation\\\"\\u003e\\u003csvg data-component=\\\"Octicon\\\" clas",
+      ", implementing a simple svm \\\"max-margin\\\" binary classification loss and using SGD for optimization",
+      "el=\\\"Permalink: micrograd\\\" href=\\\"#micrograd\\\"\\u003e\\u003csvg data-component=\\\"Octicon\\\" class=\\\"oc",
+      "Maintainer Community Accelerator GitHub Stars Archive Program REPOSITORIES Topics Trending Collectio",
+      "\",\"copilot_diff_explain_conversation_intent\",\"copilot_diff_reference_context\",\"copilot_duplicate_thr",
+      "le\":null,\"ghCliUrl\":\"gh repo clone karpathy/micrograd\",\"defaultProtocol\":\"http\",\"newSshKeyUrl\":\"/set",
+      "le qualifiers, see our documentation"
+    ],
+    "content_size": 292226
+  }
+]
