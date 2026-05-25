@@ -1,0 +1,14 @@
+version: "3.8"
+services:
+  scraper:
+    build: .
+    container_name: ai-scraper
+    restart: unless-stopped
+    volumes:
+      - ../intel:/data/intel
+    network_mode: bridge
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
