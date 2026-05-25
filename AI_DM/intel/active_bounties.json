@@ -1,0 +1,31 @@
+{
+  "scrape_date": "2026-05-26",
+  "source": "getaiperks.com/api/perks",
+  "total_perks": 233,
+  "perks": [
+    {"company": "AWS Generative AI", "credits": 1000000, "category": "AI Tool", "conditions": "10-week accelerator"},
+    {"company": "Runway ML", "credits": 1000000, "category": "AI Tool", "conditions": "filmmakers using AI"},
+    {"company": "Google Cloud", "credits": 350000, "category": "Cloud", "conditions": "AI startups using Vertex/Gemini"},
+    {"company": "AWS", "credits": 300000, "category": "Cloud", "conditions": "AI startups"},
+    {"company": "AWS Trainium", "credits": 300000, "category": "AI Tool", "conditions": "startups using AI chips"},
+    {"company": "Retool", "credits": 225000, "category": "DevTools", "conditions": "raised under $10M"},
+    {"company": "AssemblyAI", "credits": 150000, "category": "AI Tool", "conditions": "early-stage startups"},
+    {"company": "Azure OpenAI", "credits": 150000, "category": "AI Tool", "conditions": "Microsoft for Startups"},
+    {"company": "Claude (Anthropic)", "credits": 100000, "category": "AI Tool", "conditions": "VC-backed startups"},
+    {"company": "Google Cloud (2)", "credits": 200000, "category": "Cloud", "conditions": "startups under 5 years"},
+    {"company": "OpenAI Startup", "credits": 2500, "category": "AI Tool", "conditions": "startup tier"},
+    {"company": "ElevenLabs", "credits": 4000, "category": "AI Tool", "conditions": "startup tier voice"},
+    {"company": "Perplexity", "credits": 5000, "category": "AI Tool", "conditions": "startup tier search"},
+    {"company": "Mistral", "credits": 10000, "category": "AI Tool", "conditions": "startup tier"},
+    {"company": "GitHub Copilot", "credits": 30000, "category": "DevTools", "conditions": "startup program"},
+    {"company": "JetBrains", "credits": 85000, "category": "DevTools", "conditions": "50% off plans"},
+    {"company": "Cohere Catalyst", "credits": 0, "category": "Grant", "conditions": "research grants for AI safety"},
+    {"company": "MiniMax", "credits": 0, "category": "AI Tool", "conditions": "free voice/music credits"}
+  ],
+  "bounties": [
+    {"name": "OpenAI Bio Bug Bounty (GPT-5.5)", "reward": "$50,000+", "deadline": "2026-06-22", "status": "OPEN", "url": "https://openai.com", "urgency": "CRITICAL", "description": "Safety red-teaming of GPT-5.5 biological safety. Need OpenAI Platform account."},
+    {"name": "Immunefi AI Bounties", "reward": "Varies", "deadline": "Rolling", "status": "OPEN", "url": "https://immunefi.com", "urgency": "MEDIUM", "description": "Web3/AI security bounties"},
+    {"name": "HackerOne AI Programs", "reward": "Varies", "deadline": "Rolling", "status": "OPEN", "url": "https://hackerone.com", "urgency": "MEDIUM", "description": "Search for AI safety/red team programs"},
+    {"name": "Gitcoin AI Bounties", "reward": "Varies", "deadline": "Rolling", "status": "OPEN", "url": "https://gitcoin.co", "urgency": "LOW", "description": "Open source bounties with AI focus"}
+  ]
+}

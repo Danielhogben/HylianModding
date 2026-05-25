@@ -1,0 +1,11 @@
+{
+  "scrape_date": "2026-05-26",
+  "grants": [
+    {"name": "Microsoft for Startups Founders Hub", "reward": "Azure credits + GitHub Copilot", "deadline": "Rolling", "url": "https://www.microsoft.com/en-us/startups", "description": "Solo founder friendly, no investor needed"},
+    {"name": "AWS Activate", "reward": "Up to $100K AWS credits", "deadline": "Rolling", "url": "https://aws.amazon.com/activate/", "description": "Startup focused AWS credits"},
+    {"name": "Google Cloud AI Startup Program", "reward": "$350K Google Cloud credits", "deadline": "Rolling", "url": "https://cloud.google.com/startup/ai", "description": "For AI-first startups using Vertex AI or Gemini"},
+    {"name": "ElevenLabs Startup Grants", "reward": "680+ hours conversational audio", "deadline": "Rolling", "url": "https://elevenlabs.com", "description": "Free voice AI for early-stage teams"},
+    {"name": "Cohere Catalyst Grants", "reward": "API credits", "deadline": "Rolling", "url": "https://cohere.com/research/grants", "description": "Research grants for AI safety projects"}
+  ],
+  "total_estimated_value": "$4,000,000+"
+}
