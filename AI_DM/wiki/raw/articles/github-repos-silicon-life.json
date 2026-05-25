@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Aryia-Behroziuan/References",
+    "stars": 61,
+    "description": " Poole, Mackworth & Goebel 1998, p. 1.  Russell & Norvig 2003, p. 55.  Definition of AI as the study",
+    "url": "https://github.com/Aryia-Behroziuan/References",
+    "language": null,
+    "query": "artificial consciousness"
+  },
+  {
+    "name": "Aryia-Behroziuan/Other-sources",
+    "stars": 40,
+    "description": "Asada, M.; Hosoda, K.; Kuniyoshi, Y.; Ishiguro, H.; Inui, T.; Yoshikawa, Y.; Ogino, M.; Yoshida, C. ",
+    "url": "https://github.com/Aryia-Behroziuan/Other-sources",
+    "language": null,
+    "query": "artificial consciousness"
+  },
+  {
+    "name": "marmelab/molly",
+    "stars": 26,
+    "description": "A GPT-powered conversational agent with an inner monologue, demonstrating artificial consciousness",
+    "url": "https://github.com/marmelab/molly",
+    "language": "TypeScript",
+    "query": "artificial consciousness"
+  },
+  {
+    "name": "microsoft/mcp-for-beginners",
+    "stars": 16199,
+    "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real",
+    "url": "https://github.com/microsoft/mcp-for-beginners",
+    "language": "Jupyter Notebook",
+    "query": "world model AI"
+  },
+  {
+    "name": "enricoros/big-AGI",
+    "stars": 6985,
+    "description": "AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI per",
+    "url": "https://github.com/enricoros/big-AGI",
+    "language": "TypeScript",
+    "query": "world model AI"
+  },
+  {
+    "name": "cirosantilli/china-dictatorship",
+    "stars": 3011,
+    "description": "\u53cd\u4e2d\u5171\u653f\u6cbb\u5ba3\u4f20\u5e93\u3002Anti Chinese government propaganda. \u4f4f\u5728\u4e2d\u56fd\u771f\u540d\u7528\u6237\u7684\u7f51\u53cb\u8bf7\u522b\u7ed9\u661f\u661f\uff0c\u4e0d\u7136\u4f60\u8981\u88ab\u8b66\u5bdf\u8bf7\u559d\u8336\u3002\u5e38\u89c1\u95ee\u7b54\u96c6\uff0c\u65b0\u95fb\u96c6\u548c\u996d\u5e97\u548c\u97f3\u4e50\u5efa\u8bae\u3002\u5350\u4e60\u4e07\u5c81\u5350\u3002\u51a0\u72b6\u75c5",
+    "url": "https://github.com/cirosantilli/china-dictatorship",
+    "language": "HTML",
+    "query": "world model AI"
+  },
+  {
+    "name": "Garrus800-stack/genesis-agent",
+    "stars": 24,
+    "description": "Self-aware cognitive AI agent that reads, modifies & verifies its own code. Autonomous planning, epi",
+    "url": "https://github.com/Garrus800-stack/genesis-agent",
+    "language": "JavaScript",
+    "query": "self-aware AI agent"
+  },
+  {
+    "name": "visendi-labs/uffe",
+    "stars": 11,
+    "description": "A sub-100 lines, self-aware, independent, somewhat capabable LLM Agent with long term memory",
+    "url": "https://github.com/visendi-labs/uffe",
+    "language": "Python",
+    "query": "self-aware AI agent"
+  },
+  {
+    "name": "milos-product-maker/context-rot-detection",
+    "stars": 10,
+    "description": "Context Rot Detection & Healing MCP Service \u2014 gives AI agents self-awareness about their cognitive s",
+    "url": "https://github.com/milos-product-maker/context-rot-detection",
+    "language": "TypeScript",
+    "query": "self-aware AI agent"
+  },
+  {
+    "name": "gyunggyung/AGI-Papers",
+    "stars": 407,
+    "description": "A curated archive of breakthroughs in Agents, Architecture, Training, RAG, and On-Device AI.",
+    "url": "https://github.com/gyunggyung/AGI-Papers",
+    "language": null,
+    "query": "AGI architecture"
+  },
+  {
+    "name": "Cranot/agi-in-md",
+    "stars": 137,
+    "description": "Cognitive prisms for structural analysis \u2014 any domain, any model. 1000+ experiments, 58 prisms, 27 s",
+    "url": "https://github.com/Cranot/agi-in-md",
+    "language": "Python",
+    "query": "AGI architecture"
+  },
+  {
+    "name": "H4V1K-dev/axicor",
+    "stars": 90,
+    "description": "Neuromorphic Computing Engine. SNN AI Architecture base from biology ",
+    "url": "https://github.com/H4V1K-dev/axicor",
+    "language": "Rust",
+    "query": "AGI architecture"
+  },
+  {
+    "name": "microsoft/nni",
+    "stars": 14355,
+    "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering",
+    "url": "https://github.com/microsoft/nni",
+    "language": "Python",
+    "query": "neural architecture search"
+  },
+  {
+    "name": "carpedm20/ENAS-pytorch",
+    "stars": 2722,
+    "description": "PyTorch implementation of \"Efficient Neural Architecture Search via Parameters Sharing\"",
+    "url": "https://github.com/carpedm20/ENAS-pytorch",
+    "language": "Python",
+    "query": "neural architecture search"
+  },
+  {
+    "name": "D-X-Y/Awesome-AutoDL",
+    "stars": 2337,
+    "description": "Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resourc",
+    "url": "https://github.com/D-X-Y/Awesome-AutoDL",
+    "language": "Python",
+    "query": "neural architecture search"
+  },
+  {
+    "name": "framersai/agentos",
+    "stars": 554,
+    "description": "Build autonomous AI agents with adaptive intelligence and emergent behaviors, included with multimod",
+    "url": "https://github.com/framersai/agentos",
+    "language": "TypeScript",
+    "query": "emergent intelligence"
+  },
+  {
+    "name": "EmergenceAI/Emergence-World",
+    "stars": 163,
+    "description": "Emergence World: A world designed to reveal what no benchmark can: emergent intelligence.",
+    "url": "https://github.com/EmergenceAI/Emergence-World",
+    "language": null,
+    "query": "emergent intelligence"
+  },
+  {
+    "name": "lucidrains/metacontroller",
+    "stars": 104,
+    "description": "Implementation of the MetaController proposed in \"Emergent temporal abstractions in autoregressive m",
+    "url": "https://github.com/lucidrains/metacontroller",
+    "language": "Jupyter Notebook",
+    "query": "emergent intelligence"
+  },
+  {
+    "name": "RLinf/RLinf",
+    "stars": 3493,
+    "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
+    "url": "https://github.com/RLinf/RLinf",
+    "language": "Python",
+    "query": "embodied AI agent"
+  },
+  {
+    "name": "facebookresearch/habitat-lab",
+    "stars": 2986,
+    "description": "A modular high-level library to train embodied AI agents across a variety of tasks and environments.",
+    "url": "https://github.com/facebookresearch/habitat-lab",
+    "language": "Python",
+    "query": "embodied AI agent"
+  },
+  {
+    "name": "HCPLab-SYSU/Embodied_AI_Paper_List",
+    "stars": 2056,
+    "description": "[Embodied-AI-Survey-2025] Paper List and Resource Repository for Embodied AI",
+    "url": "https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List",
+    "language": null,
+    "query": "embodied AI agent"
+  },
+  {
+    "name": "langchain-ai/langchain",
+    "stars": 137627,
+    "description": "The agent engineering platform.",
+    "url": "https://github.com/langchain-ai/langchain",
+    "language": "Python",
+    "query": "LLM agent framework"
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "stars": 79494,
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "language": "Python",
+    "query": "LLM agent framework"
+  },
+  {
+    "name": "FoundationAgents/MetaGPT",
+    "stars": 68280,
+    "description": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "url": "https://github.com/FoundationAgents/MetaGPT",
+    "language": "Python",
+    "query": "LLM agent framework"
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "stars": 55015,
+    "description": "\ud83c\udf0a The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordi",
+    "url": "https://github.com/ruvnet/ruflo",
+    "language": "TypeScript",
+    "query": "multi-agent system"
+  },
+  {
+    "name": "NirDiamant/GenAI_Agents",
+    "stars": 22201,
+    "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots",
+    "url": "https://github.com/NirDiamant/GenAI_Agents",
+    "language": "Jupyter Notebook",
+    "query": "multi-agent system"
+  },
+  {
+    "name": "raga-ai-hub/RagaAI-Catalyst",
+    "stars": 16167,
+    "description": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like a",
+    "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+    "language": "Python",
+    "query": "multi-agent system"
+  }
+]
