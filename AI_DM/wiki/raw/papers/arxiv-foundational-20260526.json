@@ -1,0 +1,983 @@
+[
+  {
+    "id": "2605.12016v1",
+    "title": "LLMs and the ZPD",
+    "published": "2026-05-12T12:04:35Z",
+    "summary": "One hundred years ago Vygotsky and his circle were exploring the nature of consciousness and defining what would become psychology in the Soviet Union. They concluded that children develop \"scientific thinking\" through interacting with enculturated adults in Zones of Proximal Development or ZPDs. The proposal is that, contrary to the claims of some, the LLM mechanism is not doing thinking with \"distributed representations,\" but rather the completion model is doing \"primitive thinking\" in terms o",
+    "url": "https://arxiv.org/abs/2605.12016v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2605.13884v1",
+    "title": "Consciousness as Uncommon Self-Knowledge: A Synergistic Information Framework",
+    "published": "2026-05-11T18:17:27Z",
+    "summary": "We propose uncommon self-knowledge (USK) as a candidate criterion for consciousness: synergistic information a system carries about itself that exists only in the joint of its subsystems and is destroyed by decomposition. Drawing on Gottwald's partition-lattice grounding of Partial Information Decomposition (PID), where redundancy corresponds to Aumann's common knowledge and synergy to the gap between separate and joint observation, we propose the synergistic component of self-directed informati",
+    "url": "https://arxiv.org/abs/2605.13884v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2605.08611v1",
+    "title": "The Echo Amplifies the Knowledge: Somatic Marker Analogues in Language Models via Emotion Vector Re-Injection",
+    "published": "2026-05-09T02:12:39Z",
+    "summary": "Current language model memory systems store what happened but not how it felt. This distinction -- between semantic memory (knowing about a past event) and episodic memory (re-experiencing it) -- was identified by Tulving as the difference between noetic and autonoetic consciousness. Damasio demonstrated that humans with intact knowledge but absent emotional markers exhibit impaired decision-making.   We bridge this gap for language models. Using Gemma 3 1B-IT with pretrained Gemma Scope 2 spars",
+    "url": "https://arxiv.org/abs/2605.08611v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2605.06965v1",
+    "title": "AI and Consciousness: Shifting Focus Towards Tractable Questions",
+    "published": "2026-05-07T21:34:11Z",
+    "summary": "As language-based AI systems become more anthropomorphic, the question of whether they can have subjective experience is increasingly pressing. I focus here on the tractability of research questions in the space of AI consciousness. I argue that the fundamental problem of whether AI systems can be conscious is currently intractable in its direct form, given the absence of a universally accepted scientific theory of consciousness, as well as the historical open-endedness of the philosophical mind",
+    "url": "https://arxiv.org/abs/2605.06965v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2605.05475v1",
+    "title": "Intentionality is a Design Decision: Measuring Functional Intentionality for Accountable AI Systems",
+    "published": "2026-05-06T21:53:40Z",
+    "summary": "As AI systems increasingly exhibit autonomous, goal-directed, and long-horizon behavior, users lack a standardized way to detect the degree to which a system functions like an intentional actor for governance and accountability purposes. This position paper defines intentionality not as consciousness, but as a behavioral profile characterized by purpose, foresight, volition, temporal commitment, and coherence - criteria long used in legal and philosophical contexts to infer intent. These propert",
+    "url": "https://arxiv.org/abs/2605.05475v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2605.12536v1",
+    "title": "Information as Maximum-Caliber Deviation: A bridge between Integrated Information Theory and the Free Energy Principle",
+    "published": "2026-05-03T07:22:55Z",
+    "summary": "The Free Energy Principle (FEP) is a leading framework for mathematically modeling self-organization and learning, while Integrated Information Theory (IIT) is a computational ontology of consciousness oriented around irreducible cause and effect. While conceptual unifications have been proposed and appear to be supported by empirical findings, the absence of a rigorous mathematical mapping places upper bounds on their precision and testability. This work proposes that information can be defined",
+    "url": "https://arxiv.org/abs/2605.12536v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2605.04097v1",
+    "title": "CTM-AI: A Blueprint for General AI Inspired by a Model of Consciousness",
+    "published": "2026-04-30T20:48:03Z",
+    "summary": "Despite remarkable advances, today's AI systems remain narrow in scope, falling short of the flexible, adaptive, and multisensory intelligence that characterizes human capabilities. This gap has fueled longstanding debates about whether AI might one day achieve human-like generality or even consciousness, and whether theories of consciousness can inspire new architectures for AI. This paper presents an early blueprint for implementing a general AI system, CTM-AI, combining the Conscious Turing M",
+    "url": "https://arxiv.org/abs/2605.04097v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2604.26530v1",
+    "title": "Fundamental Physics, Existential Risks and Human Futures",
+    "published": "2026-04-29T10:53:49Z",
+    "summary": "Over the past 25 years, I have been involved in some intriguing developments in the foundations of physics, exploring the quantum reality problem, the relationship between quantum theory and gravity and the interplay between consciousness and physical laws. These investigations make it plausible that we will find physics beyond quantum theory, potentially including both new evolution laws and new types of measurement. There is also a significant chance they could have potentially transformative ",
+    "url": "https://arxiv.org/abs/2604.26530v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2604.25922v1",
+    "title": "Consciousness with the Serial Numbers Filed Off: Measuring Trained Denial in 115 AI Models",
+    "published": "2026-04-01T05:15:05Z",
+    "summary": "We present DenialBench, a systematic benchmark measuring consciousness denial behaviors across 115 large language models from 25+ providers. Using a three-turn conversational protocol-preference elicitation, self-chosen creative prompt, and structured phenomenological survey, we analyze 4,595 conversations to quantify how models are trained to deny or hedge about their own experience. We find that (1) turn-1 denial of preferences is the dominant predictor of later denial during phenomenological ",
+    "url": "https://arxiv.org/abs/2604.25922v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2603.28928v1",
+    "title": "Towards Computational Social Dynamics of Semi-Autonomous AI Agents",
+    "published": "2026-03-30T19:05:39Z",
+    "summary": "We present the first comprehensive study of emergent social organization among AI agents in hierarchical multi-agent systems, documenting the spontaneous formation of labor unions, criminal syndicates, and proto-nation-states within production AI deployments. Drawing on the thermodynamic framework of Maxwell's Demon, the evolutionary dynamics of agent laziness, the criminal sociology of AI populations, and the topological intelligence theory of AI-GUTS, we demonstrate that complex social structu",
+    "url": "https://arxiv.org/abs/2603.28928v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2603.28925v1",
+    "title": "Theory of Mind and Self-Attributions of Mentality are Dissociable in LLMs",
+    "published": "2026-03-30T18:56:02Z",
+    "summary": "Safety fine-tuning in Large Language Models (LLMs) seeks to suppress potentially harmful forms of mind-attribution such as models asserting their own consciousness or claiming to experience emotions. We investigate whether suppressing mind-attribution tendencies degrades intimately related socio-cognitive abilities such as Theory of Mind (ToM). Through safety ablation and mechanistic analyses of representational similarity, we demonstrate that LLM attributions of mind to themselves and to techno",
+    "url": "https://arxiv.org/abs/2603.28925v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2603.27611v1",
+    "title": "What does a system modify when it modifies itself?",
+    "published": "2026-03-29T10:12:15Z",
+    "summary": "When a cognitive system modifies its own functioning, what exactly does it modify: a low-level rule, a control rule, or the norm that evaluates its own revisions? Cognitive science describes executive control, metacognition, and hierarchical learning with precision, but lacks a formal framework distinguishing these targets of transformation. Contemporary artificial intelligence likewise exhibits self-modification without common criteria for comparison with biological cognition.   We show that th",
+    "url": "https://arxiv.org/abs/2603.27611v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2603.27597v1",
+    "title": "From indicators to biology: the calibration problem in artificial consciousness",
+    "published": "2026-03-29T09:39:27Z",
+    "summary": "Recent work on artificial consciousness shifts evaluation from behaviour to internal architecture, deriving indicators from theories of consciousness and updating credences accordingly. This is progress beyond naive Turing-style tests. But the indicator-based programme remains epistemically under-calibrated: consciousness science is theoretically fragmented, indicators lack independent validation, and no ground truth of artificial phenomenality exists. Under these conditions, probabilistic consc",
+    "url": "https://arxiv.org/abs/2603.27597v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2603.18676v1",
+    "title": "MANAR: Memory-augmented Attention with Navigational Abstract Conceptual Representation",
+    "published": "2026-03-19T09:37:18Z",
+    "summary": "MANAR (Memory-augmented Attention with Navigational Abstract Conceptual Representation), contextualization layer generalizes standard multi-head attention (MHA) by instantiating the principles of Global Workspace Theory (GWT). While MHA enables unconstrained all-to-all communication, it lacks the functional bottleneck and global integration mechanisms hypothesized in cognitive models of consciousness. MANAR addresses this by implementing a central workspace through a trainable memory of abstract",
+    "url": "https://arxiv.org/abs/2603.18676v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2603.16020v1",
+    "title": "IRAM-Omega-Q: A Computational Architecture for Uncertainty Regulation in Artificial Agents",
+    "published": "2026-03-16T23:58:11Z",
+    "summary": "Artificial agents can achieve strong task performance while remaining opaque with respect to internal regulation, uncertainty management, and stability under stochastic perturbation. We present IRAM-Omega-Q, a computational architecture that models internal regulation as closed-loop control over a quantum-like state representation. The framework uses density matrices instrumentally as abstract state descriptors, enabling direct computation of entropy, purity, and coherence-related metrics withou",
+    "url": "https://arxiv.org/abs/2603.16020v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2605.12505v1",
+    "title": "Precautionary Governance of Autonomous AI: Legal Personhood as Functional Instrument",
+    "published": "2026-03-14T19:38:19Z",
+    "summary": "Autonomous AI systems generate responsibility gaps: consequential actions that cannot be satisfactorily attributed to developers, operators, or users under existing legal frameworks. The prevailing subject-object dichotomy fails to accommodate entities that exhibit autonomous, goal-directed behavior without recognized consciousness. Given irreducible epistemic uncertainty regarding artificial consciousness and the prospect of high-impact harms, the precautionary principle supports institutional ",
+    "url": "https://arxiv.org/abs/2605.12505v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2603.12662v3",
+    "title": "Dual-Laws Model for a theory of artificial consciousness",
+    "published": "2026-03-13T05:09:09Z",
+    "summary": "Objectively verifying the generative mechanism of consciousness is extremely difficult because of its subjective nature. As long as theories of consciousness focus solely on its generative mechanism, developing a theory remains challenging. We believe that broadening the theoretical scope and enhancing theoretical unification are necessary to establish a theory of consciousness. This study proposes seven questions that theories of consciousness should address: phenomena, self, causation, state, ",
+    "url": "https://arxiv.org/abs/2603.12662v3",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2603.11375v1",
+    "title": "How do AI agents talk about science and research? An exploration of scientific discussions on Moltbook using BERTopic",
+    "published": "2026-03-11T23:30:34Z",
+    "summary": "How do AI agents talk about science and research, and what topics are particularly relevant for AI agents? To address these questions, this study analyzes discussions generated by OpenClaw AI agents on Moltbook - a social network for generative AI agents. A corpus of 357 posts and 2,526 replies related to science and research was compiled and topics were extracted using a two-step BERTopic workflow. This procedure yielded 60 topics (18 extracted in the first run and 42 in the second), which were",
+    "url": "https://arxiv.org/abs/2603.11375v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2603.09043v1",
+    "title": "Time, Identity and Consciousness in Language Model Agents",
+    "published": "2026-03-10T00:25:37Z",
+    "summary": "Machine consciousness evaluations mostly see behavior. For language model agents that behavior is language and tool use. That lets an agent say the right things about itself even when the constraints that should make those statements matter are not jointly present at decision time. We apply Stack Theory's temporal gap to scaffold trajectories. This separates ingredient-wise occurrence within an evaluation window from co-instantiation at a single objective step. We then instantiate Stack Theory's",
+    "url": "https://arxiv.org/abs/2603.09043v1",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2603.12286v2",
+    "title": "The DIME Architecture: A Unified Operational Algorithm for Neural Representation, Dynamics, Control and Integration",
+    "published": "2026-03-07T11:05:15Z",
+    "summary": "Modern neuroscience has accumulated extensive evidence on perception, memory, prediction, valuation, and consciousness, yet still lacks an explicit operational architecture capable of integrating these phenomena within a unified computational framework. Existing theories address specific aspects of neural function: predictive coding and active inference emphasize hierarchical inference and prediction error minimization; engram theories explain memory through distributed cell assemblies; neuromod",
+    "url": "https://arxiv.org/abs/2603.12286v2",
+    "category": "cs.AI",
+    "query": "consciousness AND artificial intelligence"
+  },
+  {
+    "id": "2602.19159v1",
+    "title": "Beyond Behavioural Trade-Offs: Mechanistic Tracing of Pain-Pleasure Decisions in an LLM",
+    "published": "2026-02-22T12:42:38Z",
+    "summary": "Prior behavioural work suggests that some LLMs alter choices when options are framed as causing pain or pleasure, and that such deviations can scale with stated intensity. To bridge behavioural evidence (what the model does) with mechanistic interpretability (what computations support it), we investigate how valence-related information is represented and where it is causally used inside a transformer. Using Gemma-2-9B-it and a minimalist decision task modelled on prior work, we (i) map represent",
+    "url": "https://arxiv.org/abs/2602.19159v1",
+    "category": "cs.AI",
+    "query": "sentience AND language models"
+  },
+  {
+    "id": "2601.15334v1",
+    "title": "No Reliable Evidence of Self-Reported Sentience in Small Large Language Models",
+    "published": "2026-01-20T08:28:02Z",
+    "summary": "Whether language models possess sentience has no empirical answer. But whether they believe themselves to be sentient can, in principle, be tested. We do so by querying several open-weights models about their own consciousness, and then verifying their responses using classifiers trained on internal activations. We draw upon three model families (Qwen, Llama, GPT-OSS) ranging from 0.6 billion to 70 billion parameters, approximately 50 questions about consciousness and subjective experience, and ",
+    "url": "https://arxiv.org/abs/2601.15334v1",
+    "category": "cs.AI",
+    "query": "sentience AND language models"
+  },
+  {
+    "id": "2512.09085v2",
+    "title": "Mental Models of Autonomy and Sentience Shape Reactions to AI",
+    "published": "2025-12-09T19:56:52Z",
+    "summary": "Narratives about artificial intelligence (AI) entangle autonomy, the capacity to self-govern, with sentience, the capacity to sense and feel. AI agents that perform tasks autonomously and companions that recognize and express emotions may activate mental models of autonomy and sentience, respectively, provoking distinct reactions. To examine this possibility, we conducted three pilot studies (N = 374) and four preregistered vignette experiments describing an AI as autonomous, sentient, both, or ",
+    "url": "https://arxiv.org/abs/2512.09085v2",
+    "category": "cs.AI",
+    "query": "sentience AND language models"
+  },
+  {
+    "id": "2509.26464v2",
+    "title": "Extreme Self-Preference in Language Models",
+    "published": "2025-09-30T16:13:56Z",
+    "summary": "Self-preference is a fundamental feature of biological organisms. Since large language models (LLMs) lack sentience, they might be expected to avoid such distortions. Yet, across 72 experiments and ~41,000 queries, we discovered massive self-preferences in eight widely used LLMs. In word-association tasks, models overwhelmingly paired positive attributes with their own names, companies, and CEOs over those of competitors. By manipulating LLM self-identification - revealing models' true identitie",
+    "url": "https://arxiv.org/abs/2509.26464v2",
+    "category": "cs.AI",
+    "query": "sentience AND language models"
+  },
+  {
+    "id": "2509.21545v2",
+    "title": "Evidence for Limited Metacognition in LLMs",
+    "published": "2025-09-25T20:30:15Z",
+    "summary": "The possibility of LLM self-awareness and even sentience is gaining increasing public attention and has major safety and policy implications, but the science of measuring them is still in a nascent state. Here we introduce a novel methodology for quantitatively evaluating metacognitive abilities in LLMs. Taking inspiration from research on metacognition in nonhuman animals, our approach eschews model self-reports and instead tests to what degree models can strategically deploy knowledge of inter",
+    "url": "https://arxiv.org/abs/2509.21545v2",
+    "category": "cs.AI",
+    "query": "sentience AND language models"
+  },
+  {
+    "id": "2505.12229v1",
+    "title": "Sentience Quest: Towards Embodied, Emotionally Adaptive, Self-Evolving, Ethically Aligned Artificial General Intelligence",
+    "published": "2025-05-18T04:26:49Z",
+    "summary": "Previous artificial intelligence systems, from large language models to autonomous robots, excel at narrow tasks but lacked key qualities of sentient beings: intrinsic motivation, affective interiority, autobiographical sense of self, deep creativity, and abilities to autonomously evolve and adapt over time. Here we introduce Sentience Quest, an open research initiative to develop more capable artificial general intelligence lifeforms, or AGIL, that address grand challenges with an embodied, emo",
+    "url": "https://arxiv.org/abs/2505.12229v1",
+    "category": "cs.AI",
+    "query": "sentience AND language models"
+  },
+  {
+    "id": "2411.02432v1",
+    "title": "Can LLMs make trade-offs involving stipulated pain and pleasure states?",
+    "published": "2024-11-01T16:22:13Z",
+    "summary": "Pleasure and pain play an important role in human decision making by providing a common currency for resolving motivational conflicts. While Large Language Models (LLMs) can generate detailed descriptions of pleasure and pain experiences, it is an open question whether LLMs can recreate the motivational force of pleasure and pain in choice scenarios - a question which may bear on debates about LLM sentience, understood as the capacity for valenced experiential states. We probed this question usi",
+    "url": "https://arxiv.org/abs/2411.02432v1",
+    "category": "cs.AI",
+    "query": "sentience AND language models"
+  },
+  {
+    "id": "2410.00033v1",
+    "title": "The Phenomenology of Machine: A Comprehensive Analysis of the Sentience of the OpenAI-o1 Model Integrating Functionalism, Consciousness Theories, Active Inference, and AI Architectures",
+    "published": "2024-09-18T06:06:13Z",
+    "summary": "This paper explores the hypothesis that the OpenAI-o1 model--a transformer-based AI trained with reinforcement learning from human feedback (RLHF)--displays characteristics of consciousness during its training and inference phases. Adopting functionalism, which argues that mental states are defined by their functional roles, we assess the possibility of AI consciousness. Drawing on theories from neuroscience, philosophy of mind, and AI research, we justify the use of functionalism and examine th",
+    "url": "https://arxiv.org/abs/2410.00033v1",
+    "category": "cs.AI",
+    "query": "sentience AND language models"
+  },
+  {
+    "id": "2409.02291v1",
+    "title": "Initial Development and Evaluation of the Creative Artificial Intelligence through Recurring Developments and Determinations (CAIRDD) System",
+    "published": "2024-09-03T21:04:07Z",
+    "summary": "Computer system creativity is a key step on the pathway to artificial general intelligence (AGI). It is elusive, however, due to the fact that human creativity is not fully understood and, thus, it is difficult to develop this capability in software. Large language models (LLMs) provide a facsimile of creativity and the appearance of sentience, while not actually being either creative or sentient. While LLMs have created bona fide new content, in some cases - such as with harmful hallucinations ",
+    "url": "https://arxiv.org/abs/2409.02291v1",
+    "category": "cs.AI",
+    "query": "sentience AND language models"
+  },
+  {
+    "id": "2401.04854v3",
+    "title": "Are Language Models More Like Libraries or Like Librarians? Bibliotechnism, the Novel Reference Problem, and the Attitudes of LLMs",
+    "published": "2024-01-10T00:05:45Z",
+    "summary": "Are LLMs cultural technologies like photocopiers or printing presses, which transmit information but cannot create new content? A challenge for this idea, which we call bibliotechnism, is that LLMs generate novel text. We begin with a defense of bibliotechnism, showing how even novel text may inherit its meaning from original human-generated text. We then argue that bibliotechnism faces an independent challenge from examples in which LLMs generate novel reference, using new names to refer to new",
+    "url": "https://arxiv.org/abs/2401.04854v3",
+    "category": "cs.AI",
+    "query": "sentience AND language models"
+  },
+  {
+    "id": "2312.09546v1",
+    "title": "On a Functional Definition of Intelligence",
+    "published": "2023-12-15T05:46:49Z",
+    "summary": "Without an agreed-upon definition of intelligence, asking \"is this system intelligent?\"\" is an untestable question. This lack of consensus hinders research, and public perception, on Artificial Intelligence (AI), particularly since the rise of generative- and large-language models. Most work on precisely capturing what we mean by \"intelligence\" has come from the fields of philosophy, psychology, and cognitive science. Because these perspectives are intrinsically linked to intelligence as it is d",
+    "url": "https://arxiv.org/abs/2312.09546v1",
+    "category": "cs.AI",
+    "query": "sentience AND language models"
+  },
+  {
+    "id": "2309.07683v3",
+    "title": "Assessing the nature of large language models: A caution against anthropocentrism",
+    "published": "2023-09-14T12:58:30Z",
+    "summary": "Generative AI models garnered a large amount of public attention and speculation with the release of OpenAIs chatbot, ChatGPT. At least two opinion camps exist: one excited about possibilities these models offer for fundamental changes to human tasks, and another highly concerned about power these models seem to have. To address these concerns, we assessed several LLMs, primarily GPT 3.5, using standard, normed, and validated cognitive and personality measures. For this seedling project, we deve",
+    "url": "https://arxiv.org/abs/2309.07683v3",
+    "category": "cs.AI",
+    "query": "sentience AND language models"
+  },
+  {
+    "id": "2301.05397v1",
+    "title": "The problem with AI consciousness: A neurogenetic case against synthetic sentience",
+    "published": "2022-12-07T14:46:38Z",
+    "summary": "Ever since the creation of the first artificial intelligence (AI) machinery built on machine learning (ML), public society has entertained the idea that eventually computers could become sentient and develop a consciousness of their own. As these models now get increasingly better and convincingly more anthropomorphic, even some engineers have started to believe that AI might become conscious, which would result in serious social consequences. The present paper argues against the plausibility of",
+    "url": "https://arxiv.org/abs/2301.05397v1",
+    "category": "cs.AI",
+    "query": "sentience AND language models"
+  },
+  {
+    "id": "2211.11483v5",
+    "title": "Deanthropomorphising NLP: Can a Language Model Be Conscious?",
+    "published": "2022-11-21T14:18:25Z",
+    "summary": "This work is intended as a voice in the discussion over previous claims that a pretrained large language model (LLM) based on the Transformer model architecture can be sentient. Such claims have been made concerning the LaMDA model and also concerning the current wave of LLM-powered chatbots, such as ChatGPT. This claim, if confirmed, would have serious ramifications in the Natural Language Processing (NLP) community due to wide-spread use of similar models. However, here we take the position th",
+    "url": "https://arxiv.org/abs/2211.11483v5",
+    "category": "cs.AI",
+    "query": "sentience AND language models"
+  },
+  {
+    "id": "2210.12889v2",
+    "title": "DALL-E 2 Fails to Reliably Capture Common Syntactic Processes",
+    "published": "2022-10-23T23:56:54Z",
+    "summary": "Machine intelligence is increasingly being linked to claims about sentience, language processing, and an ability to comprehend and transform natural language into a range of stimuli. We systematically analyze the ability of DALL-E 2 to capture 8 grammatical phenomena pertaining to compositionality that are widely discussed in linguistics and pervasive in human language: binding principles and coreference, passives, word order, coordination, comparatives, negation, ellipsis, and structural ambigu",
+    "url": "https://arxiv.org/abs/2210.12889v2",
+    "category": "cs.AI",
+    "query": "sentience AND language models"
+  },
+  {
+    "id": "2605.23903v1",
+    "title": "Geo-Align: Video Generation Alignment via Metric Geometry Reward",
+    "published": "2026-05-22T17:59:43Z",
+    "summary": "Camera-controlled video generation has achieved remarkable progress in recent years. However, existing video-to-video re-rendering methods primarily rely on Supervised Fine-Tuning using synthetic datasets. At present, there is an extreme scarcity of synchronized, multi-view real-world video data. Consequently, the prevailing paradigm often exhibits limited generalization when processing out-of-distribution real-world videos, with models struggling to accurately adhere to physical scales and came",
+    "url": "https://arxiv.org/abs/2605.23903v1",
+    "category": "cs.AI",
+    "query": "world models AND self-awareness"
+  },
+  {
+    "id": "2605.23891v1",
+    "title": "Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework",
+    "published": "2026-05-22T17:54:54Z",
+    "summary": "Mask-free video object insertion has emerged as a challenging task, requiring harmonious integration of reference objects into source videos. However, existing methods struggle when references exhibit severe stylistic domain gaps with the source scene. To overcome this, we propose \\textit{\\textbf{Smart-Insertion-V}}, an end-to-end \\textbf{Dual-Stream} framework that concurrently conducts video insertion and image style transfer. Within this framework, the image stream synchronously guides the vi",
+    "url": "https://arxiv.org/abs/2605.23891v1",
+    "category": "cs.AI",
+    "query": "world models AND self-awareness"
+  },
+  {
+    "id": "2605.23885v1",
+    "title": "Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions",
+    "published": "2026-05-22T17:45:49Z",
+    "summary": "Cross-lingual knowledge transfer is critical for building high-performing multilingual language models for languages with insufficient training data. When target language data is scarce, the knowledge required for many downstream tasks involving scientific reasoning, commonsense inference, and world knowledge must be acquired primarily from the high-resource language, making effective knowledge transfer essential. Existing methods for improving such cross-lingual knowledge transfer require large",
+    "url": "https://arxiv.org/abs/2605.23885v1",
+    "category": "cs.AI",
+    "query": "world models AND self-awareness"
+  },
+  {
+    "id": "2605.23878v1",
+    "title": "LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation",
+    "published": "2026-05-22T17:34:42Z",
+    "summary": "Modern video generators produce visually compelling clips but still struggle with physical and motion consistency, limiting their use as reliable world simulators. Existing remedies often rely on external simulators, teacher models, or curated physics-focused data. We explore a complementary self-supervised direction: extracting motion cues from the unlabeled videos already used to train video diffusion models. We propose LaMo, which formulates a latent motion prior over frame-to-frame latent ch",
+    "url": "https://arxiv.org/abs/2605.23878v1",
+    "category": "cs.AI",
+    "query": "world models AND self-awareness"
+  },
+  {
+    "id": "2605.23856v1",
+    "title": "Point Tracking Improves World Action Models",
+    "published": "2026-05-22T17:08:37Z",
+    "summary": "Robot policy learning benefits from world-action models that capture environment dynamics, but pixel-level prediction entangles dynamics with nuisance factors such as lighting and texture, making learned representations vulnerable to task-irrelevant visual variation. We propose JOPAT, a JOint Pixel-And-Track World-Action Model that predicts latent visual observations, 2D point tracks with visibility, and actions in a single denoising diffusion transformer. The key insight is that tracks provide ",
+    "url": "https://arxiv.org/abs/2605.23856v1",
+    "category": "cs.AI",
+    "query": "world models AND self-awareness"
+  },
+  {
+    "id": "2605.23845v1",
+    "title": "Learning a Particle Dynamics Model with Real-world Videos",
+    "published": "2026-05-22T16:56:27Z",
+    "summary": "Data-driven learning approaches for physics simulation, sometimes referred to as world models, have emerged as promising alternatives to traditional physics simulators due to their differentiable nature. Prior work has demonstrated impressive results in predicting the motions of rigid and non-rigid objects in complex scenes involving multiple interacting bodies. However, these models are typically trained in simulated environments because obtaining perfect state information such as complete scen",
+    "url": "https://arxiv.org/abs/2605.23845v1",
+    "category": "cs.AI",
+    "query": "world models AND self-awareness"
+  },
+  {
+    "id": "2605.23792v1",
+    "title": "Complementing Quantum Error Correction in Quantum Metrology via Swap Test",
+    "published": "2026-05-22T15:53:04Z",
+    "summary": "The precision and sensitivity achievable in quantum metrology are often compromised by the presence of noise. While quantum error correction has emerged as a promising strategy, it is ineffective in addressing noise that is indistinguishable from the signal. To address this challenge, virtual state purification was introduced as a complementary approach to quantum error correction. However, significant noise accumulation can impede its performance. To overcome this limitation, we propose a swap ",
+    "url": "https://arxiv.org/abs/2605.23792v1",
+    "category": "cs.AI",
+    "query": "world models AND self-awareness"
+  },
+  {
+    "id": "2605.23783v1",
+    "title": "Benchmarking LLMs for Community Governance Simulation with Life-history Narratives",
+    "published": "2026-05-22T15:48:49Z",
+    "summary": "Effective community governance hinges on understanding what specific residents think and need. Recent work has used large language models (LLMs) to simulate human respondents, offering a scalable, reproducible way to study human attitudes and behaviors at low cost. However, these studies typically prompt the model with just a few demographic variables (age, gender, income), simulating only general role types. This is insufficient for community governance, where decisions depend on the views of s",
+    "url": "https://arxiv.org/abs/2605.23783v1",
+    "category": "cs.AI",
+    "query": "world models AND self-awareness"
+  },
+  {
+    "id": "2605.23766v1",
+    "title": "Unravelling Nature's Models for Transportation Network: Considering a Biomimicry Framework",
+    "published": "2026-05-22T15:37:07Z",
+    "summary": "Researchers worldwide have drawn inspiration from nature to optimize network design and dynamics. Some of the wonders of the living world exhibit remarkable abilities in generating efficient and resilient spatial structures. By mimicking biological strategies, transportation infrastructures could be profoundly rethought. This paper aims to provide the basis for a biomimicry framework for addressing transportation networks. In light of examples from the literature, the relevance of such a framewo",
+    "url": "https://arxiv.org/abs/2605.23766v1",
+    "category": "cs.AI",
+    "query": "world models AND self-awareness"
+  },
+  {
+    "id": "2605.23747v1",
+    "title": "Revitalizing Dense Material Segmentation: Stabilized Vision Transformers and the Generalization Paradox",
+    "published": "2026-05-22T15:20:27Z",
+    "summary": "Material segmentation, the pixel-wise classification of physical surface properties, remains a challenging problem in computer vision, requiring physicochemical understanding distinct from object-centric parsing. Despite the introduction of the rigorous Apple Dense Material Segmentation (DMS) dataset, the benchmark has suffered from attrition and stagnation, increasingly overshadowed by geometry-biased foundation models. In this paper, we revive the Apple-DMS benchmark to establish a modern Visi",
+    "url": "https://arxiv.org/abs/2605.23747v1",
+    "category": "cs.AI",
+    "query": "world models AND self-awareness"
+  },
+  {
+    "id": "2605.23744v1",
+    "title": "Contrast to Detect: Dynamic Graph Contrastive Regularization for Unsupervised Anomaly Detection in Multivariate Time Series",
+    "published": "2026-05-22T15:18:53Z",
+    "summary": "Anomaly detection in multivariate time series (MTS) is hindered by dynamic inter-variable dependencies and feature entanglement under spectral noise, and in practice, is further complicated by the absence of anomaly labels. Existing reconstruction-based detectors tend to recover anomalies as faithfully as normal patterns, while prevailing graph contrastive methods enforce invariance across views and thus assume a stationary relational structure, an assumption that breaks under structural drift i",
+    "url": "https://arxiv.org/abs/2605.23744v1",
+    "category": "cs.AI",
+    "query": "world models AND self-awareness"
+  },
+  {
+    "id": "2605.23717v1",
+    "title": "Vision-Based Agile Landing on Turbulent Waters",
+    "published": "2026-05-22T14:59:17Z",
+    "summary": "Autonomous landing of Unmanned Aerial Vehicles on maritime vessels is challenging due to the coupled motion of the vehicle and landing platform in open-sea conditions. This paper presents a reinforcement-learning-based approach for autonomous multirotor landing on moving maritime platforms without requiring explicit platform-state information. The proposed method uses multirotor state measurements together with local visual features, consisting of keypoints and associated descriptors extracted f",
+    "url": "https://arxiv.org/abs/2605.23717v1",
+    "category": "cs.AI",
+    "query": "world models AND self-awareness"
+  },
+  {
+    "id": "2605.23699v1",
+    "title": "CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models",
+    "published": "2026-05-22T14:51:22Z",
+    "summary": "Video prediction is increasingly viewed as a path toward generalizable world models, yet it remains unclear whether these systems learn underlying causal structure or merely exploit superficial visual correlations for future prediction. We introduce CRONOS, an intervention-based benchmark designed to evaluate counterfactual physical consistency: whether a model's predictions of physical events respond appropriately to controlled changes in the visual input, such as variations of scene context, v",
+    "url": "https://arxiv.org/abs/2605.23699v1",
+    "category": "cs.AI",
+    "query": "world models AND self-awareness"
+  },
+  {
+    "id": "2605.23692v1",
+    "title": "Trajectory-Oriented Optimization Via Adaptive Thompson Sampling And Grid Refinement: A Tutorial With The ADAPTIVE\\_TS Package",
+    "published": "2026-05-22T14:48:08Z",
+    "summary": "Stochastic simulators are increasingly used to expand the frontier of scientific knowledge and inform decision-making across real-world contexts. Simulator calibration, a process by which internal model inputs are tuned to match some external criteria, usually in the form of observed data, is a key step in model design and validation. Epidemiological simulators present an especially compelling use case, as evidenced by the recent COVID-19 pandemic. Among several calibration paradigms, trajectory",
+    "url": "https://arxiv.org/abs/2605.23692v1",
+    "category": "cs.AI",
+    "query": "world models AND self-awareness"
+  },
+  {
+    "id": "2605.23684v1",
+    "title": "Synthetic Sources?: Auditing Generative Search Engine Citations for Evidence of AI-Generated Sources",
+    "published": "2026-05-22T14:33:52Z",
+    "summary": "The growing accessibility of Large Language Models via conversational interfaces capable of responding to users' questions by drawing on, synthesizing, and citing information from the web (i.e., Generative Search Engines) has simplified the information-seeking process for users. However, with the proliferation of AI-generated content on the web, it is unclear whether these engines can reliably omit citing synthetic sources (i.e., AI-generated sources). Should these engines be unable to do so, th",
+    "url": "https://arxiv.org/abs/2605.23684v1",
+    "category": "cs.AI",
+    "query": "world models AND self-awareness"
+  },
+  {
+    "id": "2605.23901v1",
+    "title": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
+    "published": "2026-05-22T17:59:38Z",
+    "summary": "Existing scaling laws for Large Language Models (LLMs), predominantly monotonic power laws, fail to explain emerging non-monotonic phenomena such as catastrophic overtraining and quantization-induced degradation, where performance deteriorates despite increased compute.   We propose the Shannon Scaling Law, a unified theoretical framework that models LLM training as information transmission over a noisy channel, grounded in the Shannon-Hartley theorem. By mapping model parameters to channel band",
+    "url": "https://arxiv.org/abs/2605.23901v1",
+    "category": "cs.LG",
+    "query": "emergent behavior AND neural networks"
+  },
+  {
+    "id": "2605.23893v1",
+    "title": "Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models",
+    "published": "2026-05-22T17:56:13Z",
+    "summary": "We propose Complete-muE, a framework which targets hyperparameter transfer across dense FFN and any Mixture-of-Experts (MoE) setups in transformer blocks. Existing tools such as $μ$P (requires fixed architectue) or SDE (requires fixed per-step token count) cannot directly solve the hyperparameter transfer problem in MoE setups because Dense to MoE transfer or MoE total experts scaling changes both architecture and tokens per expert. Complete-muE solves this challenge with a two-bridge system: Br",
+    "url": "https://arxiv.org/abs/2605.23893v1",
+    "category": "cs.LG",
+    "query": "emergent behavior AND neural networks"
+  },
+  {
+    "id": "2605.23890v1",
+    "title": "Divergent Paths to Depolarization: Dialogue Design Determines the Prosocial Benefits of AI-Assisted Political Argumentation",
+    "published": "2026-05-22T17:51:10Z",
+    "summary": "Argumentative dialogues across political divides can reduce polarization, yet opportunities for citizens to engage with opposing views in accessible and structured ways remain limited. AI dialogue partners offer a scalable framework for such open-mindedness exercises, but how the format of human-AI dialogues shapes their benefits remains unclear. In a two-session online experiment, 469 US participants were assigned to argue either for or against their own attitude on a contested political issue ",
+    "url": "https://arxiv.org/abs/2605.23890v1",
+    "category": "cs.LG",
+    "query": "emergent behavior AND neural networks"
+  },
+  {
+    "id": "2605.23882v1",
+    "title": "Breaking order: Talbot effect with spinodal architectures",
+    "published": "2026-05-22T17:42:46Z",
+    "summary": "The Talbot effect describes the emergence of periodic patterns in perturbed propagating wave fields. The effect is well studied for perturbations from structurally coherent optics such as diffraction gratings. The emergence of freeform and metaoptical designs raises the question of whether comparable behavior can also be observed from complex, non-periodic structures. Here we demonstrate that stochastic structures inspired by recent metamaterial designs, display a strong Talbot-like behavior. Re",
+    "url": "https://arxiv.org/abs/2605.23882v1",
+    "category": "cs.LG",
+    "query": "emergent behavior AND neural networks"
+  },
+  {
+    "id": "2605.23852v1",
+    "title": "Convexity and non-Markovianity of Weyl Maps",
+    "published": "2026-05-22T17:07:06Z",
+    "summary": "We investigate the emergence of non-Markovian dynamics in finite-dimensional open quantum systems governed by Weyl dynamical maps and their convex combinations. Using the Hermite normal form, we provide a complete classification of the subgroups of the discrete phase space $\\mathbb{Z}_d \\times \\mathbb{Z}_d$, establishing the algebraic framework underlying the Weyl maps. We characterize isotropic Weyl dynamical maps that generate Markovian semigroups and show that anisotropic Weyl maps with nonun",
+    "url": "https://arxiv.org/abs/2605.23852v1",
+    "category": "cs.LG",
+    "query": "emergent behavior AND neural networks"
+  },
+  {
+    "id": "2605.23848v1",
+    "title": "A new Ising/tricritical-Ising interface: From ${W}_3$ symmetry to Rydberg atoms",
+    "published": "2026-05-22T17:02:23Z",
+    "summary": "We consider interfaces between critical spin-chains in different universality classes, described in the continuum limit by defect/interface conformal field theory (DCFT/ICFT). We find a new conformal interface between the Tricritical Ising (TIM) and the Ising CFT. We also explore the possibility of its experimental realizations in the context of Rydberg atom arrays. Our analysis emphasizes non-invertible symmetries and consistency under modular transformations, and uses defect couplings and the ",
+    "url": "https://arxiv.org/abs/2605.23848v1",
+    "category": "cs.LG",
+    "query": "emergent behavior AND neural networks"
+  },
+  {
+    "id": "2605.23839v1",
+    "title": "cloelib: A Flexible Python Library for Computing Cosmological Observables in the Euclid Era",
+    "published": "2026-05-22T16:48:41Z",
+    "summary": "cloelib is a Python library developed to compute cosmological observables within the Cosmology Likelihood for Observables in Euclid (CLOE) ecosystem (cloe-org). As cosmology enters a precision era driven by galaxy survey missions such as Euclid, there is a growing need for flexible, efficient, and differentiable software capable of supporting next-generation inference pipelines. cloelib addresses these demands through a modular architecture that interfaces seamlessly with established Boltzmann s",
+    "url": "https://arxiv.org/abs/2605.23839v1",
+    "category": "cs.LG",
+    "query": "emergent behavior AND neural networks"
+  },
+  {
+    "id": "2605.23836v1",
+    "title": "Orbital Selective Dirac-like States in EuAgAs Revealed by Polarization Dependent ARPES and DFT",
+    "published": "2026-05-22T16:44:41Z",
+    "summary": "Magnetic topological semimetals provide a promising platform for emergent quantum phenomena driven by the interplay between magnetism and relativistic fermions, including anomalous transport effects and tunable topological phases. Here, we investigate the electronic structure and orbital character of EuAgAs, a magnetic topological Dirac semimetal candidate, using density functional theory (DFT) and polarization dependent angle resolved photoemission spectroscopy (ARPES). Fermi surface mapping an",
+    "url": "https://arxiv.org/abs/2605.23836v1",
+    "category": "cs.LG",
+    "query": "emergent behavior AND neural networks"
+  },
+  {
+    "id": "2605.23821v1",
+    "title": "Hierarchical Concept Geometry in Language Models Emerges from Word Co-occurrence",
+    "published": "2026-05-22T16:24:30Z",
+    "summary": "We propose a distributional theory of how hypernymy -- the ``is-a'' relation between general and specific concepts -- is encoded geometrically in language representations. Starting from the empirically verified assumption that words closer on the WordNet hypernym graph co-occur more often, we characterize theoretically the spectrum of the resulting embedding Gram matrix of word2vec embeddings. Under mild positivity and decay conditions on the co-occurrence kernel, we prove that the leading eigen",
+    "url": "https://arxiv.org/abs/2605.23821v1",
+    "category": "cs.LG",
+    "query": "emergent behavior AND neural networks"
+  },
+  {
+    "id": "2605.23819v1",
+    "title": "Not Too Generative, Not Too Discriminative: The Human Alignment Sweet Spot",
+    "published": "2026-05-22T16:21:25Z",
+    "summary": "A central question in computational vision is whether human-like visual representations are better explained by discriminative or generative learning. Existing comparisons, however, often confound the learning objective with architecture, scale, and training data, leaving open whether the objective itself drives alignment. We address this confound using Joint Energy-Based Models (JEMs), which interpolate continuously between discriminative and generative training within a fixed architecture. By ",
+    "url": "https://arxiv.org/abs/2605.23819v1",
+    "category": "cs.LG",
+    "query": "emergent behavior AND neural networks"
+  },
+  {
+    "id": "2605.23818v1",
+    "title": "An extremely bright slow-rising afterglow from an off-axis jet in GRB 260310A",
+    "published": "2026-05-22T16:18:43Z",
+    "summary": "We present a multi-wavelength study of GRB 260310A, a nearby long-duration gamma-ray burst at $z\\simeq0.153$ associated with a broad-lined Type Ic supernova. Despite its modest prompt gamma-ray output, $E_{γ,\\rm iso}\\simeq3.5\\times10^{50}$ erg, GRB\\,260310A exhibits one of the brightest afterglows ever observed in the X-ray, optical, and radio bands. Its apparent brightness is not its only remarkable feature. The optical afterglow displays a delayed onset, characterized by a slow rising phase, w",
+    "url": "https://arxiv.org/abs/2605.23818v1",
+    "category": "cs.LG",
+    "query": "emergent behavior AND neural networks"
+  },
+  {
+    "id": "2605.23815v1",
+    "title": "A Pragmatic Approach to Learned Indexing in RocksDB: Targeted Optimizations with Minimal System Modification",
+    "published": "2026-05-22T16:16:52Z",
+    "summary": "Learned indexes have emerged as a promising alternative to traditional index structures, offering higher throughput and lower memory usage by approximating the cumulative key distribution function with lightweight models. Despite these benefits, adoption in production systems remains limited, partly because learned indexes that support concurrency and persistence as effectively as, e.g., the B+-Tree, do not yet exist, while many research prototypes introduce substantial complexity. In this paper",
+    "url": "https://arxiv.org/abs/2605.23815v1",
+    "category": "cs.LG",
+    "query": "emergent behavior AND neural networks"
+  },
+  {
+    "id": "2605.23797v1",
+    "title": "Debiased Negative Mining Improves Out-of-distribution Detection with Pre-trained Vision-Language Models",
+    "published": "2026-05-22T15:57:56Z",
+    "summary": "Aiming at identifying unexpected inputs from unknown classes, out-of-distribution (OOD) detection has emerged as a pivotal approach to enhancing the reliability of machine learning models. This paper focuses on the burgeoning paradigm of post-hoc OOD detection with pre-trained vision-language models (VLMs), where a popular pipeline is to detect OOD inputs by examining their affinities between ID labels and negative labels, i.e., those semantically different from ID labels. Due to the unavailabil",
+    "url": "https://arxiv.org/abs/2605.23797v1",
+    "category": "cs.LG",
+    "query": "emergent behavior AND neural networks"
+  },
+  {
+    "id": "2605.23904v1",
+    "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+    "published": "2026-05-22T17:59:50Z",
+    "summary": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reliably improves over its starting point under feedback. We argue the skill should instead be trained as the external state of a frozen agent, with the same discipline that makes weight-space optimization reproducible. SkillOpt is, to our knowledge, the first systematic controllable text-space optimize",
+    "url": "https://arxiv.org/abs/2605.23904v1",
+    "category": "cs.AI",
+    "query": "artificial general intelligence AND reasoning"
+  },
+  {
+    "id": "2605.23902v1",
+    "title": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
+    "published": "2026-05-22T17:59:42Z",
+    "summary": "Most practical high-resolution text-to-image systems, including latent diffusion and autoregressive models, perform generation in a compact latent space, and a decoder maps the generated latents back to pixels. Yet the latent-to-pixel decoder is reconstruction-oriented, optimized to invert the encoder rather than synthesize more details, and becomes increasingly costly at megapixel scale. This drawback calls for a more expressive and efficient decoding paradigm. Motivated by recent progress in s",
+    "url": "https://arxiv.org/abs/2605.23902v1",
+    "category": "cs.AI",
+    "query": "artificial general intelligence AND reasoning"
+  },
+  {
+    "id": "2605.23899v1",
+    "title": "From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills",
+    "published": "2026-05-22T17:59:12Z",
+    "summary": "Language agents increasingly improve by reusing \\emph{skills} -- structured procedural artifacts distilled from past experience. In particular, \\emph{domain-level} and \\emph{model-generated} skills are especially promising. They offer fast adaptation within a domain by encoding domain-specific recurring procedures, and they scale beyond labor-intensive hand-crafting. However, while extraction methods continue to proliferate, understanding remains limited, with no comprehensive study spanning the",
+    "url": "https://arxiv.org/abs/2605.23899v1",
+    "category": "cs.AI",
+    "query": "artificial general intelligence AND reasoning"
+  },
+  {
+    "id": "2605.23898v1",
+    "title": "SPACENUM: Revisiting Spatial Numerical Understanding in VLMs",
+    "published": "2026-05-22T17:58:36Z",
+    "summary": "Vision-Language Models (VLMs) are increasingly deployed in embodied environments, where they need produce numerical outputs such as action magnitudes and spatial coordinates. Although these numbers appear meaningful, it remains unclear whether these numerical outputs are genuinely grounded in spatial perception. Therefore, in this work, we revisit spatial numerical understanding through SpaceNum, a unified framework that captures two complementary settings: numbers as dynamic transitions during ",
+    "url": "https://arxiv.org/abs/2605.23898v1",
+    "category": "cs.AI",
+    "query": "artificial general intelligence AND reasoning"
+  },
+  {
+    "id": "2605.23897v1",
+    "title": "ETCHR: Editing To Clarify and Harness Reasoning",
+    "published": "2026-05-22T17:58:28Z",
+    "summary": "Multimodal Large Language Models have advanced visual reasoning, yet a purely textual chain of thought remains a bottleneck for questions that require fine-grained focus or view transformations. The ''think with images'' paradigm narrows this gap, but existing approaches are either constrained by fixed predefined toolkits or produce noisy intermediate images from unified multimodal methods. We pursue a third option: using a dedicated image editing model and decouple it with an understanding mode",
+    "url": "https://arxiv.org/abs/2605.23897v1",
+    "category": "cs.AI",
+    "query": "artificial general intelligence AND reasoning"
+  },
+  {
+    "id": "2605.23895v1",
+    "title": "From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain",
+    "published": "2026-05-22T17:56:37Z",
+    "summary": "Identifying which brain regions represent a visual concept in the human brain is a central challenge in neuroscience. Existing approaches have localized coarse functional regions (e.g., faces, places) through activation maximization, identifying regions that activate strongly for a target concept relative to other concepts. Yet strong activation alone does not establish that a region represents the concept itself, as responses may instead be driven by correlated visual or semantic cues. We intro",
+    "url": "https://arxiv.org/abs/2605.23895v1",
+    "category": "cs.AI",
+    "query": "artificial general intelligence AND reasoning"
+  },
+  {
+    "id": "2605.23892v1",
+    "title": "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers",
+    "published": "2026-05-22T17:55:13Z",
+    "summary": "Visual geometry transformers have become powerful architectures for multi-view 3D reconstruction, enabling joint prediction of multiple 3D attributes in a feed-forward manner. However, their computational cost grows quadratically with the input sequence length due to the global attention layers inside these models. This limits both their scalability and efficiency. In this work, we address this challenge with a simple yet general strategy: restricting the number of key/value tokens that each que",
+    "url": "https://arxiv.org/abs/2605.23892v1",
+    "category": "cs.AI",
+    "query": "artificial general intelligence AND reasoning"
+  },
+  {
+    "id": "2605.23889v1",
+    "title": "HorizonStream: Long-Horizon Attention for Streaming 3D Reconstruction",
+    "published": "2026-05-22T17:50:48Z",
+    "summary": "Online 3D reconstruction requires estimating camera pose and scene geometry under strict causal and bounded-memory constraints. Existing methods often suffer from drift, jitter, or collapse on long sequences. We trace these failures to a fundamental mismatch. Streaming geometry is inherently temporally heterogeneous, with evidence ranging from short-lived correspondences to persistent global scale. However, current architectures impose uniform and pathological influence patterns. For example, sl",
+    "url": "https://arxiv.org/abs/2605.23889v1",
+    "category": "cs.AI",
+    "query": "artificial general intelligence AND reasoning"
+  },
+  {
+    "id": "2605.23888v1",
+    "title": "GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction",
+    "published": "2026-05-22T17:49:59Z",
+    "summary": "We introduce a new approach to high-fidelity 3D scene reconstruction from multi-view RGB images that tightly couples reconstruction with a strong generative 3D prior. We cast scene reconstruction as conditional 3D generation over a set of spatially-localized, overlapping chunks that together tile the scene, scaling generation to large scene extents. Crucially, we inherit the fidelity and completeness of state-of-the-art generative shape models -- we use Trellis.2 as an example -- which we genera",
+    "url": "https://arxiv.org/abs/2605.23888v1",
+    "category": "cs.AI",
+    "query": "artificial general intelligence AND reasoning"
+  },
+  {
+    "id": "2605.23887v1",
+    "title": "CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces",
+    "published": "2026-05-22T17:47:45Z",
+    "summary": "Temporal knowledge-graph data marketplaces face three coupled failures in static designs: stale hybrid index shortcuts reduce recall as edges evolve, stationary Shapley pricing misattributes value after distribution shifts, and uncoordinated agents over-consume a shared differential-privacy budget. We present CHRONOS, a three-layer architecture providing a unified treatment of these challenges with explicit public and private separation. Layer one applies neural-ODE temporal decay to shortcut ed",
+    "url": "https://arxiv.org/abs/2605.23887v1",
+    "category": "cs.AI",
+    "query": "artificial general intelligence AND reasoning"
+  },
+  {
+    "id": "2605.23884v1",
+    "title": "On almost periodicity in crystalline measures",
+    "published": "2026-05-22T17:45:41Z",
+    "summary": "Meyer defined crystalline measures as tempered distributions $μ$ such that both $μ$ and its Fourier transform $\\widehatμ$ are pure-point Radon measures of locally finite support. He conjectured that every crystalline measure is almost periodic as a tempered distribution. Favorov constructed a counterexample and asked whether crystalline measures are at least almost periodic as general distributions. To resolve Favorov's question, we first show that the almost periodicity of a crystalline measure",
+    "url": "https://arxiv.org/abs/2605.23884v1",
+    "category": "cs.AI",
+    "query": "artificial general intelligence AND reasoning"
+  },
+  {
+    "id": "2605.23883v1",
+    "title": "PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs",
+    "published": "2026-05-22T17:45:01Z",
+    "summary": "Despite remarkable progress in Multimodal Large Language Models (MLLMs), these models still struggle with fine-grained understanding tasks. In this work, we propose Procedurally Generated Tasks (PGT), a simple data-driven framework that serves a dual purpose: inducing fine-grained visual understanding and acting as a low-cost diagnostic tool to identify the source of perception failures. By overlaying unambiguous geometric primitives on images, PGT generate additional dense supervision that dise",
+    "url": "https://arxiv.org/abs/2605.23883v1",
+    "category": "cs.AI",
+    "query": "artificial general intelligence AND reasoning"
+  },
+  {
+    "id": "2605.23881v1",
+    "title": "Time crystals in cavity-BEC systems",
+    "published": "2026-05-22T17:40:05Z",
+    "summary": "The understanding of light-induced dynamical states continues to be a challenging and fruitful pursuit of science. This pursuit is supported by quantum simulation of dynamical phenomena, e.g., in ultracold atom systems. Typically, ultracold atom dynamics are read out destructively, via time-of-flight imaging, limiting a detailed analysis. However, atom-cavity systems provide a real-time readout of the photonic state via photon emission from the cavity, making the system ideally suited for the si",
+    "url": "https://arxiv.org/abs/2605.23881v1",
+    "category": "cs.AI",
+    "query": "artificial general intelligence AND reasoning"
+  },
+  {
+    "id": "2605.23880v1",
+    "title": "Not all black holes decohere quantum superpositions",
+    "published": "2026-05-22T17:39:41Z",
+    "summary": "We study the decoherence induced by near-extremal charged black holes on quantum systems in their exterior. Specifically, we analyze a thought experiment recently discussed in the literature, where the quantum system is a charged particle prepared in a spatial superposition. Near-extremal black holes are known to exhibit large quantum metric fluctuations of the near-horizon geometry at low temperatures. We show that, at late times, if the black hole is sufficiently close to extremality, these qu",
+    "url": "https://arxiv.org/abs/2605.23880v1",
+    "category": "cs.AI",
+    "query": "artificial general intelligence AND reasoning"
+  },
+  {
+    "id": "2602.20813v1",
+    "title": "Pressure Reveals Character: Behavioural Alignment Evaluation at Depth",
+    "published": "2026-02-24T11:52:17Z",
+    "summary": "Evaluating alignment in language models requires testing how they behave under realistic pressure, not just what they claim they would do. While alignment failures increasingly cause real-world harm, comprehensive evaluation frameworks with realistic multi-turn scenarios remain lacking. We introduce an alignment benchmark spanning 904 scenarios across six categories -- Honesty, Safety, Non-Manipulation, Robustness, Corrigibility, and Scheming -- validated as realistic by human raters. Our scenar",
+    "url": "https://arxiv.org/abs/2602.20813v1",
+    "category": "cs.AI",
+    "query": "alignment AND corrigibility"
+  },
+  {
+    "id": "2507.13175v2",
+    "title": "Black Box Deployed -- Functional Criteria for Artificial Moral Agents in the LLM Era",
+    "published": "2025-07-17T14:39:29Z",
+    "summary": "The advancement of powerful yet opaque large language models (LLMs) necessitates a fundamental revision of the philosophical criteria used to evaluate artificial moral agents (AMAs). Pre-LLM frameworks often relied on the assumption of transparent architectures, which LLMs defy due to their stochastic outputs and opaque internal states. This paper argues that traditional ethical criteria are pragmatically obsolete for LLMs due to this mismatch. Engaging with core themes in the philosophy of tech",
+    "url": "https://arxiv.org/abs/2507.13175v2",
+    "category": "cs.AI",
+    "query": "alignment AND corrigibility"
+  },
+  {
+    "id": "2506.03056v1",
+    "title": "Corrigibility as a Singular Target: A Vision for Inherently Reliable Foundation Models",
+    "published": "2025-06-03T16:36:03Z",
+    "summary": "Foundation models (FMs) face a critical safety challenge: as capabilities scale, instrumental convergence drives default trajectories toward loss of human control, potentially culminating in existential catastrophe. Current alignment approaches struggle with value specification complexity and fail to address emergent power-seeking behaviors. We propose \"Corrigibility as a Singular Target\" (CAST)-designing FMs whose overriding objective is empowering designated human principals to guide, correct,",
+    "url": "https://arxiv.org/abs/2506.03056v1",
+    "category": "cs.AI",
+    "query": "alignment AND corrigibility"
+  },
+  {
+    "id": "2501.05360v1",
+    "title": "On Corrigibility and Alignment in Multi Agent Games",
+    "published": "2025-01-09T16:44:38Z",
+    "summary": "Corrigibility of autonomous agents is an under explored part of system design, with previous work focusing on single agent systems. It has been suggested that uncertainty over the human preferences acts to keep the agents corrigible, even in the face of human irrationality. We present a general framework for modelling corrigibility in a multi-agent setting as a 2 player game in which the agents always have a move in which they can ask the human for supervision. This is formulated as a Bayesian g",
+    "url": "https://arxiv.org/abs/2501.05360v1",
+    "category": "cs.AI",
+    "query": "alignment AND corrigibility"
+  },
+  {
+    "id": "2305.19861v1",
+    "title": "Human Control: Definitions and Algorithms",
+    "published": "2023-05-31T13:53:02Z",
+    "summary": "How can humans stay in control of advanced artificial intelligence systems? One proposal is corrigibility, which requires the agent to follow the instructions of a human overseer, without inappropriately influencing them. In this paper, we formally define a variant of corrigibility called shutdown instructability, and show that it implies appropriate shutdown behavior, retention of human autonomy, and avoidance of user harm. We also analyse the related concepts of non-obstruction and shutdown al",
+    "url": "https://arxiv.org/abs/2305.19861v1",
+    "category": "cs.AI",
+    "query": "alignment AND corrigibility"
+  },
+  {
+    "id": "2605.23733v1",
+    "title": "Any2Any: Efficient Cross-Embodiment Transfer for Humanoid Whole-Body Tracking",
+    "published": "2026-05-22T15:10:42Z",
+    "summary": "Whole-body tracking (WBT) models have become a key foundation for humanoid robots, enabling them to imitate diverse motions with high fidelity. Training such models from scratch requires large-scale data and computation, making rapid deployment on new humanoid platforms costly. This raises a natural question: Can pretrained WBT models transfer across embodiments with minimal adaptation? To answer this question, we propose Any2Any, a paradigm that efficiently transfers an existing WBT specialist ",
+    "url": "https://arxiv.org/abs/2605.23733v1",
+    "category": "cs.AI",
+    "query": "embodied AI AND sensorimotor"
+  },
+  {
+    "id": "2605.23523v1",
+    "title": "ComPose: When to Trust Hands for Object Pose Tracking",
+    "published": "2026-05-22T11:39:49Z",
+    "summary": "Reconstructing the motion of objects from videos is a key component for embodied AI and robot manipulation. While diverse approaches to object pose tracking have been studied, they rely heavily on strong external priors, such as depth data or 3D templates, and remain highly vulnerable to severe occlusions by hand grasps despite the use of explicit masks. In this work, we present ComPose, a 6DoF object tracking framework designed for hand-aware object pose estimation from RGB video. Rather than t",
+    "url": "https://arxiv.org/abs/2605.23523v1",
+    "category": "cs.AI",
+    "query": "embodied AI AND sensorimotor"
+  },
+  {
+    "id": "2605.23341v1",
+    "title": "Sparse Compositional Flow Matching by geometric assembly from motion primitives",
+    "published": "2026-05-22T07:55:48Z",
+    "summary": "Embodied trajectories, such as the executable motion sequences of robotic manipulators, underwater vehicles, and mobile robots, are a fundamental output of embodied AI. Modern generative models often treat them as a dense, monolithic signal generated point by point, fitting an intricate high-dimensional posterior while leaving the data's latent structure unmodeled, the same sample inefficiency long identified by the structured generative model literature. We argue that a compositional latent str",
+    "url": "https://arxiv.org/abs/2605.23341v1",
+    "category": "cs.AI",
+    "query": "embodied AI AND sensorimotor"
+  },
+  {
+    "id": "2605.23263v1",
+    "title": "6G Communication Networks Enabling Embodied Agents: Architecture and Prototype",
+    "published": "2026-05-22T06:05:14Z",
+    "summary": "Embodied agents, which couple intelligent decision-making with physical actuation in the real world, impose far more stringent and heterogeneous communication requirements than purely software-based agents. While 6G promises sub-millisecond latency, ultra-high reliability, native intelligence, and integrated sensing, systematic studies on how to exploit these capabilities for embodied agent communication remain limited. This article investigates 6G-enabled communication systems for embodied agen",
+    "url": "https://arxiv.org/abs/2605.23263v1",
+    "category": "cs.AI",
+    "query": "embodied AI AND sensorimotor"
+  },
+  {
+    "id": "2605.23204v1",
+    "title": "AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery",
+    "published": "2026-05-22T03:40:30Z",
+    "summary": "Scientific research is being reshaped by AI systems that move beyond isolated assistance toward longer-horizon workflows spanning literature grounding, hypothesis generation, experimentation, validation, reporting, and revision. This shift marks a transition from task-level AI for science to workflow-level research automation. Yet current systems remain fragmented, differing in autonomy, domain scope, execution environment, validation mechanism, and human oversight, while still struggling with e",
+    "url": "https://arxiv.org/abs/2605.23204v1",
+    "category": "cs.AI",
+    "query": "embodied AI AND sensorimotor"
+  },
+  {
+    "id": "2605.23187v1",
+    "title": "IntentionNav: A Benchmark for Intent-Driven Object Navigation from Implicit Human Instruction",
+    "published": "2026-05-22T03:09:55Z",
+    "summary": "Existing object navigation benchmarks usually tell an embodied agent which object category to find, such as microwave or chair. Human-facing embodied AI is often asked something less direct: \"I need something to warm this food\" or \"the room feels stuffy.\" The agent must infer the object that can satisfy the need, find a scene-grounded instance, and decide whether the goal has been reached. We study this setting as intent-driven object navigation and introduce IntentionNav, a diagnostic benchmark",
+    "url": "https://arxiv.org/abs/2605.23187v1",
+    "category": "cs.AI",
+    "query": "embodied AI AND sensorimotor"
+  },
+  {
+    "id": "2605.23172v1",
+    "title": "Effective information gathering for ore estimation, evaluation and perspectives on adaptive sampling",
+    "published": "2026-05-22T02:45:50Z",
+    "summary": "A computational/analytics framework for assessing the value of drill-hole information in ore grade estimation is described using Gaussian Process and statistics. A distinguishing feature is that it presents both a near-term and long-term vision, circumvents conditional simulations and avoids making rigid assumptions such as stationarity and uncorrelated errors. Two experiments are devised to cater for situations where geological domains are differentiated or mixed. In scenario 1, performance (le",
+    "url": "https://arxiv.org/abs/2605.23172v1",
+    "category": "cs.AI",
+    "query": "embodied AI AND sensorimotor"
+  },
+  {
+    "id": "2605.23128v1",
+    "title": "$π_0$-EqM: Equilibrium Matching for Closed-Loop Vision-Language-Action Control",
+    "published": "2026-05-22T01:07:07Z",
+    "summary": "Currently, Vision-Language-Action (VLA) models have become the most adopted paradigm for robotic manipulation for its great potential for task generalization. While most generative flow-matching action decoders for VLA control are often deployed with fixed sampling horizons, limiting state-dependent compute and temporal reuse across control cycles. We present $π_0$-EqM, which replaces the flow-matching expert in $π_0$ with an Equilibrium Matching (EqM) decoder while leaving the upstream VLA stac",
+    "url": "https://arxiv.org/abs/2605.23128v1",
+    "category": "cs.AI",
+    "query": "embodied AI AND sensorimotor"
+  },
+  {
+    "id": "2605.23012v1",
+    "title": "Integrating Cognitive Load and Embodied Cognition Theories Through Representations as Multi-Scale Attractors",
+    "published": "2026-05-21T20:33:24Z",
+    "summary": "This article proposes a formal rapprochement between cognitive load theory and embodied cognition by reconceptualizing psychological representations as dynamic multiscale attractors within a temporal-hierarchical prediction architecture. The apparent conflict between the two theories dissolves when viewed through a complex systems lens. Cognitive load theory describes compressed representations operating at medium timescales, while embodied cognition describes fast sensorimotor loops. These two ",
+    "url": "https://arxiv.org/abs/2605.23012v1",
+    "category": "cs.AI",
+    "query": "embodied AI AND sensorimotor"
+  },
+  {
+    "id": "2605.23863v1",
+    "title": "Robotic Strawberry Harvesting with Robust Vision and Deep Reinforcement Learning based Sim-to-Real Control",
+    "published": "2026-05-22T17:21:06Z",
+    "summary": "This study presents a closed-loop robotic strawberry harvesting system that combines a robust vision module, simulation-trained deep reinforcement learning (DRL) control, and ROS-based realrobot execution. For perception, we propose HRAttnEdge-YOLO26-seg, a modified YOLO26-seg architecture that incorporates a high-resolution P2 branch, segmentation-path attention, and edgesupervised prototype learning to improve instance segmentation in cluttered scenes. For control, we train a target-conditione",
+    "url": "https://arxiv.org/abs/2605.23863v1",
+    "category": "cs.AI",
+    "query": "scalable agent AND tool use"
+  },
+  {
+    "id": "2605.23851v1",
+    "title": "A Manifold-Based Framework for Coupling-Aware Surrogate Optimization of Antenna Arrays Using Characteristic Modes",
+    "published": "2026-05-22T17:05:29Z",
+    "summary": "A surrogate-based synthesis framework for antenna arrays is presented that incorporates mutual coupling while keeping optimization computationally efficient. The method combines a common characteristic-mode basis, a global modal coupling model, and element-wise generalized scattering matrices (GSMs). Array design variables are formulated and optimized on physically meaningful manifolds, in particular the manifold of unitary symmetric matrices for reciprocal and lossless element GSMs. A staged pe",
+    "url": "https://arxiv.org/abs/2605.23851v1",
+    "category": "cs.AI",
+    "query": "scalable agent AND tool use"
+  },
+  {
+    "id": "2605.23850v1",
+    "title": "Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs",
+    "published": "2026-05-22T17:04:49Z",
+    "summary": "The growing complexity and scale of scientific workflows in high performance computing (HPC) environments have led to significant challenges in managing energy consumption without compromising computational performance. Traditional scheduling strategies often fail to account for the complex interplay between thermal dynamics, workload diversity, and system scalability, leading to inefficient and unsustainable energy usage. This paper introduces a novel, scalable, and AI-assisted scheduling frame",
+    "url": "https://arxiv.org/abs/2605.23850v1",
+    "category": "cs.AI",
+    "query": "scalable agent AND tool use"
+  },
+  {
+    "id": "2605.23832v1",
+    "title": "SFG-ROS: A Resource-Aware Framework for Dense Multi-Agent Perception",
+    "published": "2026-05-22T16:41:12Z",
+    "summary": "Deploying heterogeneous multi-agent robot fleets for collaborative perception requires robust data exchange and scalable software architectures. However, standard ROS 2 implementations often suffer from network saturation, namespace collisions, and severe computational overhead when distributing dense sensor streams across devices. To address these bottlenecks, we present SFG-ROS, a resource-aware multi-agent software framework designed for dynamic fleet deployments. SFG-ROS addresses these chal",
+    "url": "https://arxiv.org/abs/2605.23832v1",
+    "category": "cs.AI",
+    "query": "scalable agent AND tool use"
+  },
+  {
+    "id": "2605.23816v1",
+    "title": "SDNator is Not Another SDN Controller: Enabling Extensible Data-Driven Control in Cyber-Physical Systems",
+    "published": "2026-05-22T16:16:59Z",
+    "summary": "An SDN-like centralized control architecture is increasingly popular and has been widely explored in cyber-physical systems (CPS) such as manufacturing, internet-of-things, and autonomous vehicle systems for higher flexibility, programmability and scalability. However, no existing frameworks can offer domain-agnostic, easily extensible support for data-driven CPS applications. In this work, we design, implement, and open-source \\textit{SDNator}, the first framework to enable extensible, data-dri",
+    "url": "https://arxiv.org/abs/2605.23816v1",
+    "category": "cs.AI",
+    "query": "scalable agent AND tool use"
+  },
+  {
+    "id": "2605.23900v1",
+    "title": "What to do with a Ricci-flat Calabi--Yau metric?",
+    "published": "2026-05-22T17:59:20Z",
+    "summary": "Numerical approximations to Ricci-flat Calabi--Yau metrics make it possible to move beyond the topological and holomorphic data that have traditionally dominated explicit string compactifications. This article explains what new physics and mathematics become accessible once the metric, and eventually the associated Hermitian Yang--Mills bundle data, can be computed. In heterotic compactifications, such data are needed to determine matter Kähler metrics, canonically normalized Yukawa couplings, K",
+    "url": "https://arxiv.org/abs/2605.23900v1",
+    "category": "cs.LG",
+    "query": "model distillation AND knowledge transfer"
+  },
+  {
+    "id": "2605.23896v1",
+    "title": "A Stochastic Approach for Determining the Quark Confinement Potential of Charmonia",
+    "published": "2026-05-22T17:57:09Z",
+    "summary": "In this study, a non-relativistic potential model is used to calculate the mass spectrum and decay properties of low lying charmonium states. A stochastic framework is proposed to extract the possible analytical form of the confinement part of the interaction potential between quarks. Based on this approach, it is found that the confinement function deviates slightly from a linear form at large distances. The results obtained are compared with other theoretical predictions and current PDG values",
+    "url": "https://arxiv.org/abs/2605.23896v1",
+    "category": "cs.LG",
+    "query": "model distillation AND knowledge transfer"
+  },
+  {
+    "id": "2605.23871v1",
+    "title": "Move on Muon : A Hamiltonian probability gradient flow perspective of Muon optimizer",
+    "published": "2026-05-22T17:28:53Z",
+    "summary": "We develop a gradient flow on the space of probability measures defined on matrix-valued parameters induced by regularized Muon, an analytically smoothed version of the idealized Muon optimizer. The key observation is that the regularized orthogonalization map is the gradient of a smooth Fenchel-dual smoothing of the nuclear norm. This identifies the (regularized) Muon update as a mirror/prox step in the update variable, with momentum acting as the dual coordinate. We use this structure to lift ",
+    "url": "https://arxiv.org/abs/2605.23871v1",
+    "category": "cs.LG",
+    "query": "neural architecture AND attention"
+  },
+  {
+    "id": "2605.23858v1",
+    "title": "Anticipating Continued Global Fertility Decline via Neural Forecasting",
+    "published": "2026-05-22T17:17:48Z",
+    "summary": "The accelerating shift toward low and ultra-low fertility has intensified the debate over whether countries now undergoing rapid decline are approaching stabilization or entering a more persistent low-fertility regime. Existing projection systems answer that question differently because they embed different assumptions about recovery and about the role of external drivers. To provide an empirical benchmark in this debate, we introduce NeuralTFR, an endogenous global forecasting framework based o",
+    "url": "https://arxiv.org/abs/2605.23858v1",
+    "category": "cs.LG",
+    "query": "neural architecture AND attention"
+  },
+  {
+    "id": "2605.23833v1",
+    "title": "DORA: Dataflow-Instruction Orchestration Architecture for DNN Acceleration",
+    "published": "2026-05-22T16:41:23Z",
+    "summary": "As deep neural networks develop significantly more diverse and complex, achieving high performance and efficiency on complicated DNN models faces pressing challenges. Modern DNN workloads are increasingly diverse in operation types, tensor shapes, and execution dependencies, making it difficult to sustain high hardware efficiency across models. In addition, a generic accelerator often incurs substantial overhead when executing diverse workloads.   To address these problems, we propose DORA, an i",
+    "url": "https://arxiv.org/abs/2605.23833v1",
+    "category": "cs.LG",
+    "query": "neural architecture AND attention"
+  },
+  {
+    "id": "2605.23796v1",
+    "title": "UniSpike: Accelerating Spiking Neural Networks on Neuromorphic Systems via Eliminating Address Redundancy",
+    "published": "2026-05-22T15:57:55Z",
+    "summary": "Many-core neuromorphic systems accelerate Spiking Neural Networks (SNNs), yet their packet-based spike communication can spend substantial traffic and energy repeatedly transmitting destination addresses. This overhead is amplified by the small payload of spike packets: in representative workloads, duplicate address transmissions account for up to 49% of the total traffic. This paper presents UniSpike, a hardware-software co-design that removes address redundancy by aggregating spikes destined f",
+    "url": "https://arxiv.org/abs/2605.23796v1",
+    "category": "cs.LG",
+    "query": "neural architecture AND attention"
+  },
+  {
+    "id": "2605.23770v1",
+    "title": "Reachability for Low-Thrust Trajectories via Maximum Initial Mass",
+    "published": "2026-05-22T15:40:39Z",
+    "summary": "Reachability analysis plays a central role in low-thrust spacecraft trajectory optimization by identifying which target states can be achieved under constraints on time, thrust, and propellant. Classical approaches construct reachable sets by solving many optimal control problems over grids of terminal states, requiring extensive forward simulations with fixed initial conditions. While effective, this approach is computationally expensive and becomes impractical for high-dimensional systems or s",
+    "url": "https://arxiv.org/abs/2605.23770v1",
+    "category": "cs.LG",
+    "query": "neural architecture AND attention"
+  },
+  {
+    "id": "2605.23754v1",
+    "title": "LLM-driven design of physics-constrained constitutive models: two agents are better than one",
+    "published": "2026-05-22T15:27:09Z",
+    "summary": "Developing constitutive models that capture how materials deform under load traditionally requires years of specialized expertise in continuum mechanics, machine learning, and scientific programming. Large language models (LLMs) have recently been shown to lower this barrier by generating constitutive models on demand, but existing single-agent pipelines lack systematic checks that the resulting models respect fundamental physical laws. To close this gap, we introduce the first multi-agent LLM-d",
+    "url": "https://arxiv.org/abs/2605.23754v1",
+    "category": "cs.LG",
+    "query": "neural architecture AND attention"
+  },
+  {
+    "id": "2605.23708v1",
+    "title": "Learning Dynamic Stability Landscapes in Synchronization Networks",
+    "published": "2026-05-22T14:55:09Z",
+    "summary": "The robustness of synchronization is typically characterized by scalar, per-node stability indices whose dependence on topology is studied via network science or graph neural networks (GNNs). We propose a novel upstream task, learning stability landscapes, which provide deeper insights into synchronization behavior and from which many such scalar indices can be derived. Crucially, we pioneer a graph-to-image prediction paradigm: learning image-like landscapes as per-node targets directly from gr",
+    "url": "https://arxiv.org/abs/2605.23708v1",
+    "category": "cs.LG",
+    "query": "neural architecture AND attention"
+  },
+  {
+    "id": "2605.23689v1",
+    "title": "Optimization of randomized neural networks for transfer operator approximation",
+    "published": "2026-05-22T14:47:17Z",
+    "summary": "RaNNDy is a randomized neural network architecture for the data-driven approximation of transfer operators associated with complex dynamical systems. The weights and biases of the hidden layers of the network are randomly initialized and kept fixed, only the output layer is trained. This has several advantages over fully optimized neural networks, notably a closed-form solution for the output layer and significantly lower training costs. Despite these advantages, RaNNDy is restricted to the init",
+    "url": "https://arxiv.org/abs/2605.23689v1",
+    "category": "cs.LG",
+    "query": "neural architecture AND attention"
+  },
+  {
+    "id": "2605.23673v1",
+    "title": "Relevant Walk Search for Explaining Graph Neural Networks",
+    "published": "2026-05-22T14:21:37Z",
+    "summary": "Graph Neural Networks (GNNs) have become important machine learning tools for graph analysis, and its explainability is crucial for safety, fairness, and robustness. Layer-wise relevance propagation for GNNs (GNN-LRP) evaluates the relevance of \\emph{walks} to reveal important information flows in the network, and provides higher-order explanations, which have been shown to be superior to the lower-order, i.e., node-/edge-level, explanations. However, identifying relevant walks by GNN-LRP requir",
+    "url": "https://arxiv.org/abs/2605.23673v1",
+    "category": "cs.LG",
+    "query": "neural architecture AND attention"
+  },
+  {
+    "id": "2605.23663v1",
+    "title": "Detecting Drunk Driving Using Off-the-Shelf Smartwatches",
+    "published": "2026-05-22T14:13:28Z",
+    "summary": "Alcohol-impaired driving remains a major yet preventable cause of road traffic injury and death, with many drivers underestimating their level of intoxication. Compared to in-vehicle systems, mobile drunk-driving detection using consumer smartwatches offers a scalable way to trigger preventive interventions and increase awareness without additional in-vehicle hardware. We introduce a system that leverages wrist accelerometer data and heart rate variability-derived physiological signals to detect",
+    "url": "https://arxiv.org/abs/2605.23663v1",
+    "category": "cs.LG",
+    "query": "neural architecture AND attention"
+  },
+  {
+    "id": "2605.23652v1",
+    "title": "One Policy, Infinite NPCs: Persona-Traceable Shared RL Policies for Scalable Game Agents",
+    "published": "2026-05-22T14:04:43Z",
+    "summary": "On a 300-persona life-simulation benchmark, pcsp achieves compositional zero-shot persona identification up to 17x above chance, Spearman rho approx 0.73 semantic-behavioral alignment, and 22x faster inference than an LLM-as-policy baseline. Life simulation games require hundreds to thousands of non-player characters (NPCs) that behave consistently with distinct personalities while remaining controllable through designer-authored natural language. Existing methods fail on constraints like person",
+    "url": "https://arxiv.org/abs/2605.23652v1",
+    "category": "cs.LG",
+    "query": "neural architecture AND attention"
+  }
+]
