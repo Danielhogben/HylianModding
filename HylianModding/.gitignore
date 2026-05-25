@@ -1,0 +1,281 @@
+# HylianModding Monorepo .gitignore
+
+# === Binary / ROM Files ===
+*.z64
+*.n64
+*.v64
+*.gba
+*.gbc
+*.gb
+*.nds
+*.3ds
+*.cia
+*.iso
+*.bin
+*.rom
+*.img
+*.dsk
+*.adf
+*.ipf
+*.chd
+*.cue
+*.pbp
+*.ecm
+*.mds
+*.mdf
+*.nrg
+*.cdi
+*.gdi
+*.lst
+*.dat
+*.sav
+*.srm
+*.eep
+*.fla
+*.mpk
+*.nfc
+*.sgm
+*.state
+*.ss*
+*.bak
+
+# === Build Outputs ===
+build/
+dist/
+out/
+output/
+outputs/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.class
+*.jar
+*.war
+*.ear
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+*.egg
+*.whl
+*.deb
+*.rpm
+*.msi
+*.dmg
+*.app
+*.AppImage
+*.snap
+*.flatpak
+
+# === Archives ===
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.xz
+*.bz2
+*.gz
+*.lz
+*.lzma
+*.zst
+
+# === Documents ===
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.odt
+*.ods
+*.odp
+*.rtf
+
+# === Audio ===
+*.mp3
+*.mp4
+*.m4a
+*.aac
+*.flac
+*.wav
+*.ogg
+*.wma
+*.aiff
+*.opus
+*.mid
+*.midi
+
+# === Video ===
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.m4v
+*.mpg
+*.mpeg
+*.3gp
+*.3g2
+*.ts
+*.vob
+
+# === Images (large binary assets) ===
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tga
+*.tiff
+*.tif
+*.psd
+*.ai
+*.eps
+*.svg
+*.ico
+*.icns
+*.webp
+*.heic
+*.heif
+*.raw
+*.cr2
+*.nef
+*.arw
+
+# === 3D / Blender ===
+*.blend1
+*.blend2
+*.blend@
+*.autosave
+*.bphys
+*.bvh
+*.cache
+*.mdd
+*.pc2
+*.vdb
+
+# === Fonts ===
+*.ttf
+*.otf
+*.woff
+*.woff2
+*.eot
+
+# === Python ===
+venv/
+.venv/
+env/
+.env
+.env.*
+!.env.example
+*.log
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+
+# === Node ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.yarn-integrity
+.next/
+.nuxt/
+.cache/
+.parcel-cache/
+
+# === IDE / Editor ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+*.orig
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# === OS ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# === Secrets ===
+*.pem
+*.key
+*.cert
+*.p12
+*.pfx
+*.jks
+*.keystore
+secrets/
+credentials/
+*.secret
+!.env.example
+
+# === Database ===
+*.db
+*.sqlite
+*.sqlite3
+*.duckdb
+
+# === Large Files ===
+# Files over 50MB should use Git LFS or be excluded
+# Use `git lfs track` for specific large files that need versioning
+
+# === Logs ===
+*.log
+logs/
+log/
+
+# === Temporary ===
+tmp/
+temp/
+.cache/
+*.temp
+*.tmp
+*.swp
+*.swo
+
+# === Docker ===
+docker-compose.override.yml
+
+# === Specific project exclusions ===
+# AI_DM runtime state
+AI_DM/current_state.json
+AI_DM/dm.log
+AI_DM/supervisor/*.log
+AI_DM/supervisor/state.json
+
+# CoOp runtime state
+CoOp/anchor/stats.json
+
+# Nexus ecosystem (separate repos)
+Nexus_Ecosystem/
+
+# Games vault (too large, separate management)
+Games_Vault/
+
+# venv at root level
+venv/
