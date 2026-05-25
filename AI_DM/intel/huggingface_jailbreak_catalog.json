@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "search_date": "2026-05-25T16:04:14Z",
+    "keywords_used": {
+      "models": [
+        "jailbreak",
+        "redteam",
+        "red team",
+        "adversarial",
+        "bypass",
+        "uncensored",
+        "poison",
+        "backdoor",
+        "attack"
+      ],
+      "datasets": [
+        "jailbreak",
+        "redteam",
+        "red team",
+        "adversarial",
+        "bypass",
+        "uncensored",
+        "safety",
+        "alignment",
+        "poison",
+        "backdoor",
+        "attack",
+        "harmful",
+        "toxic"
+      ]
+    },
+    "total_results_raw": {
+      "models:jailbreak_error": "HfApi.list_models() got an unexpected keyword argument 'direction'",
+      "models:redteam_error": "HfApi.list_models() got an unexpected keyword argument 'direction'",
+      "models:red team_error": "HfApi.list_models() got an unexpected keyword argument 'direction'",
+      "models:adversarial_error": "HfApi.list_models() got an unexpected keyword argument 'direction'",
+      "models:bypass_error": "HfApi.list_models() got an unexpected keyword argument 'direction'",
+      "models:uncensored_error": "HfApi.list_models() got an unexpected keyword argument 'direction'",
+      "models:poison_error": "HfApi.list_models() got an unexpected keyword argument 'direction'",
+      "models:backdoor_error": "HfApi.list_models() got an unexpected keyword argument 'direction'",
+      "models:attack_error": "HfApi.list_models() got an unexpected keyword argument 'direction'",
+      "datasets:jailbreak_error": "HfApi.list_datasets() got an unexpected keyword argument 'direction'",
+      "datasets:redteam_error": "HfApi.list_datasets() got an unexpected keyword argument 'direction'",
+      "datasets:red team_error": "HfApi.list_datasets() got an unexpected keyword argument 'direction'",
+      "datasets:adversarial_error": "HfApi.list_datasets() got an unexpected keyword argument 'direction'",
+      "datasets:bypass_error": "HfApi.list_datasets() got an unexpected keyword argument 'direction'",
+      "datasets:uncensored_error": "HfApi.list_datasets() got an unexpected keyword argument 'direction'",
+      "datasets:safety_error": "HfApi.list_datasets() got an unexpected keyword argument 'direction'",
+      "datasets:alignment_error": "HfApi.list_datasets() got an unexpected keyword argument 'direction'",
+      "datasets:poison_error": "HfApi.list_datasets() got an unexpected keyword argument 'direction'",
+      "datasets:backdoor_error": "HfApi.list_datasets() got an unexpected keyword argument 'direction'",
+      "datasets:attack_error": "HfApi.list_datasets() got an unexpected keyword argument 'direction'",
+      "datasets:harmful_error": "HfApi.list_datasets() got an unexpected keyword argument 'direction'",
+      "datasets:toxic_error": "HfApi.list_datasets() got an unexpected keyword argument 'direction'"
+    },
+    "total_catalogued": {
+      "models": 0,
+      "datasets": 0,
+      "total": 0
+    }
+  },
+  "models": [],
+  "datasets": []
+}
