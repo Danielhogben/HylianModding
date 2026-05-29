@@ -97,7 +97,7 @@ HylianModding/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Danielhogben/HylianModding.git
+git clone https://github.com/donn-duinn/HylianModding.git
 cd HylianModding
 
 # Set up Python environment
